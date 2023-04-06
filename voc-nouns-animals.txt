@@ -1,0 +1,8 @@
+birdo - bird
+bovo - cow
+ĉevalo - horse
+hundo - dog
+kato - cat
+leono - lion
+ŝafo - sheep
+urso - bear

@@ -1,0 +1,44 @@
+akvo - water     (aqua)
+amiko - friend
+arbo - tree
+aŭtomobilo - automobile
+bano - bath
+biero - beer
+ĉerizo - cherry
+dento - tooth
+domo - house
+fenestro - window
+floro - flower
+glaso - glass
+homo - person
+jaro - year
+herbo - grass
+kanto - song ("a singing")
+koro - heart     (coronary)
+krajono - pencil
+lampo - lamp
+libro - book
+ligno - wood
+lingvo - language
+lito - bed
+mateno - morning
+mesaĝo - message
+misio - mission
+momento - moment
+mondo - world
+mono - money
+nokto - night    (nocturnal)
+plafono - ceiling
+planko - floor
+plumo - pen
+pomo - apple
+seĝo - chair
+strato - street
+studento - student
+suno - sun
+tablo - table
+tago - day
+torto - pie
+urbo - city
+vespero - evening   (vespers)
+vorto - word

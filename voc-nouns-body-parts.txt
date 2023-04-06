@@ -1,0 +1,22 @@
+brako - arm
+buŝo - mouth
+fingro - finger
+gambo - leg (thigh to foot)
+kapo - head
+korpo - body
+kruro - shank (knee to foot)
+mano - hand
+nazo - nose
+okulo - eye
+orelo - ear
+piedo - foot
+piedfingro - toe
+
+frunto - forehead
+genuo - knee
+kolo - neck
+kubuto - elbow
+makzelo - jaw
+mentono - chin
+ŝultro - shoulder
+vango - cheek

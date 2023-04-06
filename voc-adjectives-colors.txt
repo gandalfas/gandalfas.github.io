@@ -1,0 +1,13 @@
+arĝenta - silver
+blanka - white
+blua - blue
+bruna - brown
+flava - yellow
+griza - gray
+nigra - black
+oranĝkolora - orange
+purpura - purple
+ora - gold
+ruĝa - red
+verda - green
+viola - violet

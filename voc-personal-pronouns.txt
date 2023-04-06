@@ -1,0 +1,29 @@
+mi - I
+vi - you (singular)
+li - he
+ŝi - she
+ĝi - it
+ni - we
+vi - you (plural)
+ili - they
+oni - one
+
+min - me
+vin - you (singular)
+lin - him
+ŝin - her
+ĝin - it
+nin - us
+vin - you (plural)
+ilin - them
+onin - one
+
+mia - my
+via - your (singular)
+lia - his
+ŝia - her
+ĝia - its
+nia - our
+via - your (plural)
+ilia  - their
+onia - one's

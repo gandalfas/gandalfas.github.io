@@ -1,0 +1,13 @@
+nulo - zero
+unu - one
+du - two
+tri - three
+kvar - four
+kvin - five
+ses - six
+sep - seven
+ok - eight
+naŭ - nine
+dek - ten
+cent - hundred
+mil - thousand
