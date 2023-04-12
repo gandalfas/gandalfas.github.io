@@ -1,3 +1,5 @@
+aĉeti - to buy
+akiri - to acquire, get
 ami - to love
 brili - to shine
 demandi - to ask
@@ -22,6 +24,7 @@ iri - to go
 kanti - to sing
 kapti - to capture
 kisi - to kiss
+kompreni - to understand
 kudri - to sew
 kuiri - to cook
 kuri - to run
@@ -29,9 +32,11 @@ kuŝi - to lie down
 labori - to work
 legi - to read
 lerni - to learn
+ludi - to play
 manĝi - to eat
 manki - to lack, to be absent, to be missing.  Vi mankas min.  You are missing to me = I miss you.
 marŝi - to walk
+miri - to be amazed, to marvel  (mnenonic: miracle)
 morti - to die
 pagi - to pay
 paroli - to speak
@@ -41,13 +46,14 @@ povi - to be able (can, if present tense)
 preĝi - to pray
 preni - to take
 programi - to program (a computer)
+ricevi - to receive
 ridi - to laugh
 serĉi - to search for
 skribi - to write
 sidi - to sit
 stari - to stand
 tranĉi - to cut
-vendi - to sell    (vendor)
+vendi - to sell    (mnenonic: vendor)
 veni - to come
 vidi - to see
 vivi - to live

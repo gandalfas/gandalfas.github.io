@@ -2,12 +2,12 @@ avo - grandfather
 bebo - baby
 familio - family
 filo - son
-frato - brother
+frato - brother   (mnenonic: fraternal)
 infano - child
 knabo - boy
 kuzo - cousin
-nepo - grandson
+nepo - grandson   (mnenonic: nepotism)
 nevo - nephew
 onklo - uncle
 patro - father
-viro - man
+viro - man      (mnenonic: virile)

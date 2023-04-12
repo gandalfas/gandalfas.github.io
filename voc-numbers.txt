@@ -2,8 +2,8 @@ nulo - zero
 unu - one
 du - two
 tri - three
-kvar - four
-kvin - five
+kvar - four   (mnenonic: quartet)
+kvin - five   (mnenonic: quintuplet)
 ses - six
 sep - seven
 ok - eight

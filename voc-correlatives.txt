@@ -1,15 +1,21 @@
 kio - what (thing), in a general way
 tio - that (thing), in a general way
+ĉi tio - this (thing), in a general way
 io - something
 ĉio - everything
 nenio - nothing
 
-kiu - which one, which one specifically (or who, if you know it's a person)
-tiu - that one, that one specifically
-
 kiu /noun/ - which /noun/, which /noun/ specifically
 tiu /noun/ - that /noun/, that /noun/ specifically
+ĉi tiu /noun/ - this /noun/, this /noun/ specifically
 
-kie - where
-tie - there
+kiu (with no noun) - which one, which one specifically (or who, if you know it's a person)
+tiu (with no noun) - that one, that one specifically
+ĉi tiu (with no noun) - this one, this one specifically
 
+kie - where (which place)
+tie - there (that place)
+ĉi tie - here (this place)
+ie - somewhere
+ĉie - everywhere
+nenie - nowhere

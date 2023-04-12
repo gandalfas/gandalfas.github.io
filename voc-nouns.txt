@@ -14,7 +14,7 @@ homo - person
 jaro - year
 herbo - grass
 kanto - song ("a singing")
-koro - heart     (coronary)
+koro - heart     (mnenonic: coronary)
 krajono - pencil
 lampo - lamp
 libro - book
@@ -23,16 +23,21 @@ lingvo - language
 lito - bed
 mateno - morning
 mesaĝo - message
+mezo - middle
 misio - mission
 momento - moment
+monato - month
 mondo - world
 mono - money
-nokto - night    (nocturnal)
+nokto - night    (mnenonic: nocturnal)
 plafono - ceiling
 planko - floor
 plumo - pen
 pomo - apple
+posttagmezo - afternoon
+revuo - magazine
 seĝo - chair
+semajno - week
 strato - street
 studento - student
 suno - sun
@@ -40,5 +45,5 @@ tablo - table
 tago - day
 torto - pie
 urbo - city
-vespero - evening   (vespers)
+vespero - evening   (mnenonic: vespers)
 vorto - word

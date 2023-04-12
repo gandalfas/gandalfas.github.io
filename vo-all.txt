@@ -31,7 +31,12 @@
 ĉar - because
 ĉe - at
 ĉerizo - cherry
-ĉevalo - horse
+ĉevalo - horse   (mnenonic: cavalier)
+ĉi tie - here (this place)
+ĉi tio - this (thing), in a general way
+ĉi tiu (with no noun) - this one, this one specifically
+ĉi tiu /noun/ - this /noun/, this /noun/ specifically
+ĉie - everywhere
 ĉio - everything
 ĉirkaŭ - around
 ĉu - applied to sentence, makes it a yes or no question
@@ -40,16 +45,18 @@
 ŝia - her
 ŝin - her
 ŝultro - shoulder
+aĉeti - to buy
 aŭ - or
-aŭdaca - bold  (audacious)
+aŭdaca - bold  (mnenonic: audacious)
 aŭtomobilo - automobile
+akiri - to acquire, get
 akvo - water     (aqua)
 al - to
 alia - other
 ami - to love
 amiko - friend
 ankaŭ - also
-antaŭ - before
+antaŭ - before   (mnenonic: ante meridiem "AM")
 apenaŭ - barely
 apud - beside
 arĝenta - silver
@@ -109,7 +116,7 @@ flegi - to nurse (a sick person)
 floro - flower
 forta - strong
 forte - strongly
-frato - brother
+frato - brother   (mnenonic: fraternal)
 frua - early
 frunto - forehead
 gambo - leg (thigh to foot)
@@ -126,6 +133,7 @@ hieraŭ - yesterday
 hodiaŭ - today
 homo - person
 hundo - dog
+ie - somewhere
 ili - they
 ilia  - their
 ilin - them
@@ -146,18 +154,19 @@ kapo - head
 kapti - to capture
 kato - cat
 kelkaj - few, some
-kie - where
+kie - where (which place)
 Kiel vi fartas? - How are you?
 kio - what (thing), in a general way
 kisi - to kiss
-kiu - which one, which one specifically (or who, if you know it's a person)
+kiu (with no noun) - which one, which one specifically (or who, if you know it's a person)
 kiu /noun/ - which /noun/, which /noun/ specifically
 klara - clear
 knabo - boy
 kolo - neck
+kompreni - to understand
 kontenta - pleased, content
 kontente - contentedly
-koro - heart     (coronary)
+koro - heart     (mnenonic: coronary)
 korpo - body
 krajono - pencil
 kruro - shank (knee to foot)
@@ -169,9 +178,9 @@ kun - with
 kuri - to run
 kuzo - cousin
 kvankam - although
-kvar - four
+kvar - four   (mnenonic: quartet)
 kvieta - quiet
-kvin - five
+kvin - five   (mnenonic: quintuplet)
 la - the
 labori - to work
 lampo - lamp
@@ -188,6 +197,7 @@ ligno - wood
 lin - him
 lingvo - language
 lito - bed
+ludi - to play
 makzelo - jaw
 mal- - opposite of
 malsupre - below, down
@@ -198,13 +208,16 @@ marŝi - to walk
 mateno - morning
 mentono - chin
 mesaĝo - message
+mezo - middle
 mi - I
 Mi fartas bone. - I am well.
 mia - my
 mil - thousand
 min - me
+miri - to be amazed, to marvel  (mnenonic: miracle)
 misio - mission
 momento - moment
+monato - month
 mondo - world
 mono - money
 morgaŭ - tomorrow
@@ -215,14 +228,15 @@ nazo - nose
 ne - no, does not (applied to verbs)
 Nedankinde! - You're welcome!
 nek - nor
+nenie - nowhere
 nenio - nothing
-nepo - grandson
+nepo - grandson   (mnenonic: nepotism)
 nevo - nephew
 ni - we
 nia - our
 nigra - black
 nin - us
-nokto - night    (nocturnal)
+nokto - night    (mnenonic: nocturnal)
 norda - north
 nova - new
 nove - newly
@@ -254,7 +268,8 @@ plumo - pen
 pomo - apple
 por - for
 porti - to carry
-post - after, behind
+post - after, behind    (mnenonic: post meridiem "PM")
+posttagmezo - afternoon
 povi - to be able (can, if present tense)
 preĝi - to pray
 preni - to take
@@ -264,6 +279,8 @@ proksima - near
 pura - clean
 purpura - purple
 rapida - fast
+revuo - magazine
+ricevi - to receive
 ridi - to laugh
 ruĝa - red
 Saluton! - Hi!
@@ -275,6 +292,7 @@ se - if
 seĝo - chair
 sed - but
 seka - dry
+semajno - week
 sen - without
 sep - seven
 serĉi - to search for
@@ -295,9 +313,9 @@ supre - above, up
 sur - on
 tablo - table
 tago - day
-tie - there
+tie - there (that place)
 tio - that (thing), in a general way
-tiu - that one, that one specifically
+tiu (with no noun) - that one, that one specifically
 tiu /noun/ - that /noun/, that /noun/ specifically
 torto - pie
 tra - through
@@ -309,11 +327,11 @@ urbo - city
 urso - bear
 vango - cheek
 varma - hot
-vendi - to sell    (vendor)
+vendi - to sell    (mnenonic: vendor)
 veni - to come
-vera - true   (veracity)
+vera - true   (mnenonic: veracity)
 verda - green
-vespero - evening   (vespers)
+vespero - evening   (mnenonic: vespers)
 vi - you (plural)
 vi - you (singular)
 via - your (plural)
@@ -322,7 +340,7 @@ vidi - to see
 vin - you (plural)
 vin - you (singular)
 viola - violet
-viro - man
+viro - man      (mnenonic: virile)
 vivi - to live
 voli - to want
 vorto - word
