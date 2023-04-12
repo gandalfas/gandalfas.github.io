@@ -1,0 +1,34 @@
+numbers
+
+nulo - zero
+unu - one
+du - two
+tri - three
+kvar - four
+kvin - five
+ses - six
+sep - seven
+ok - eight
+naŭ - nine
+dek - ten
+cent - hundred
+mil - thousand
+
+articles
+
+la - the
+
+colors
+
+ruĝa - red
+blua - blue
+verda - green
+flava - yellow
+oranĝkolora - orange
+purpura - purple
+blanka - white
+nigra - black
+griza - gray
+bruna - brown
+ora - gold
+arĝenta - silver

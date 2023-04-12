@@ -1,0 +1,92 @@
+phrases
+
+Dankon! - Thank you!
+Nedankinde! - You're welcome!
+
+prepositions
+
+sur - on
+al - to
+de - from, since, by, of (possession)
+
+
+verbs (transitive - take an object)
+
+havi - to have
+ami - to love
+fari - to do, to make
+voli - to want
+kisi - to kiss
+kuiri - to cook
+manĝi - to eat
+diri - to say, to tell
+vidi - to see
+
+
+correlatives
+
+kiu *noun* - which *noun*, which *noun* specifically
+tiu *noun* - that *noun*, that *noun* specifically
+
+kiu - which one, which one specifically (or who, if you know it's a person)
+tiu - that one, that one specifically
+
+adjectives
+
+multa - much
+rapida - fast
+klara - clear
+stulta - stupid
+alia - other
+orienta - east
+okcidenta - west
+norda - north
+suda - south
+frua - early
+sama - same
+dura - hard
+plena - full
+sata - sated, full
+malsata - hungry
+kelkaj - few, some
+
+conjunctions
+
+kaj - and
+aŭ - or
+nek - nor
+sed - but
+ankaŭ - also
+ĉar - because
+se - if
+
+nouns
+
+lingvo - language
+pomo - apple
+
+kapo - head
+okulo - eye
+buŝo - mouth
+orelo - ear
+nazo - nose
+korpo - body
+vango - cheek
+mentono - chin
+makzelo - jaw
+frunto - forehead
+kolo - neck
+ŝultro - shoulder
+brako - arm
+kubuto - elbow
+mano - hand
+fingro - finger
+gambo - leg (thigh to foot)
+kruro - shank (knee to foot)
+genuo - knee
+piedo - foot
+piedfingro - toe
+
+suffixes
+
+-ej- - place    hundejo - doghouse

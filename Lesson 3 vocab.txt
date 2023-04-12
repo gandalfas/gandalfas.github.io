@@ -1,0 +1,44 @@
+nouns
+
+tablo - table
+fenestro - window
+seĝo - chair
+planko - floor
+plafono - ceiling
+bano - bath
+lampo - lamp
+lito - bed
+glaso - glass
+plumo - pen
+floro - flower
+suno - sun
+homo - person
+bovo - cow
+
+adjectives
+
+seka - dry
+varma - hot
+granda - big
+nova - new
+larĝa - wide
+kontenta - pleased, content
+libera - free
+pura - clean
+forta - strong
+sana - healthy
+sankta - holy
+proksima - near
+
+correlatives
+
+kio - what (thing), in a general way
+tio - that (thing), in a general way
+
+prefixes
+
+mal- - opposite of
+
+suffixes
+
+-ar- - collection    birdaro - flock
