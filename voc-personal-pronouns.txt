@@ -1,22 +1,22 @@
-mi - I
+mi - I (subject) / me (object of preposition)
 vi - you (singular)
-li - he
-ŝi - she
+li - he (subject) / him (object of preposition)
+ŝi - she (subject) / her (object of preposition)
 ĝi - it
-ni - we
+ni - we (subject) / us (object of preposition)
 vi - you (plural)
-ili - they
+ili - they (subject) / them (object of preposition)
 oni - one
 
-min - me
-vin - you (singular)
-lin - him
-ŝin - her
-ĝin - it
-nin - us
-vin - you (plural)
-ilin - them
-onin - one
+min - me (object of verb)
+vin - you (singular) (object of verb)
+lin - him (object of verb)
+ŝin - her (object of verb)
+ĝin - it (object of verb)
+nin - us (object of verb)
+vin - you (plural) (object of verb)
+ilin - them (object of verb)
+onin - one (object of verb)
 
 mia - my
 via - your (singular)

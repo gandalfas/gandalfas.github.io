@@ -8,30 +8,59 @@ Bonan tagon! - Good day!
 Bonan nokton! - Good night!
 
 
+adverbs
+
+pli - more (used with ol)
+plej - most (used with el)
+
+nouns
+
+lumo - light (opposite of dark)   [illuminate, luminescent]
+
 verbs
 
-opinii - to think            (opinion)
-koni - to know, be acquainted with (persons, places)     
-scii - to know (facts)       (science)
+opinii - to think, have an opinion
+koni - to know, be acquainted with (persons, places)
+scii - to know (facts)       [science]
+farbi - to paint (a wall)    [refurbish]
+pentri - to paint (a picture)    [paint]
 
 
 adjectives
 
 kara - dear
 
+unua - first
+dua - second
+tria - third
+kvara - fourth
+kvina - fifth
+sesa - sixth
+sepa - seventh
+oka - eighth
+naŭa - ninth
+deka - tenth
+centa - hundredth
+mila - thousandth
 
-exclamatory
+
+exclamations
 
 do - so  (so, I went anyway)
 nu - well  (well, I can't believe he said that)
 
 
-xxx
+pronouns
 
-ambaŭ - both --- put with neither/nek..nek either/au...au   (ambidexterous, ambiguous, ambivalent)
+ambaŭ - both    [ambidexterous, ambiguous, ambivalent]
 
 
-xxx
+conjunctions
+
+ke - that (joins two clauses)
+
+
+particles
 
 ĉu ne - don't you?  isn't it?  didn't they?  right?
 

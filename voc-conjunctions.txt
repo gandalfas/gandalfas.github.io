@@ -3,6 +3,7 @@ aŭ - or
 ĉar - because
 ĝis - until
 kaj - and
+ke - that (joins two clauses)
 kvankam - although
 ol - than
 nek - nor

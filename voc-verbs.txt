@@ -13,6 +13,7 @@ esplori - to explore
 esti - to be
 fali - to fall
 fari - to do, to make
+farbi - to paint (a wall)    [refurbish]
 farti - to fare
 fidi - to trust
 flegi - to nurse (a sick person)
@@ -24,7 +25,8 @@ iri - to go
 kanti - to sing
 kapti - to capture
 kisi - to kiss
-kompreni - to understand
+kompreni - to understand    [comprehend]
+koni - to know, be acquainted with (persons, places)
 kudri - to sew
 kuiri - to cook
 kuri - to run
@@ -36,11 +38,13 @@ ludi - to play
 manĝi - to eat
 manki - to lack, to be absent, to be missing.  Vi mankas min.  You are missing to me = I miss you.
 marŝi - to walk
-miri - to be amazed, to marvel  (mnenonic: miracle)
+miri - to be amazed, to marvel  [miracle]
 morti - to die
+opinii - to think, have an opinion
 pagi - to pay
 paroli - to speak
-pensi - to think
+pensi - to think   [pensive]
+pentri - to paint (a picture)    [paint]
 porti - to carry
 povi - to be able (can, if present tense)
 preĝi - to pray
@@ -48,12 +52,13 @@ preni - to take
 programi - to program (a computer)
 ricevi - to receive
 ridi - to laugh
+scii - to know (facts)       [science]
 serĉi - to search for
 skribi - to write
 sidi - to sit
 stari - to stand
 tranĉi - to cut
-vendi - to sell    (mnenonic: vendor)
+vendi - to sell    [vendor]
 veni - to come
 vidi - to see
 vivi - to live

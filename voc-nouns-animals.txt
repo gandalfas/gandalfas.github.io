@@ -1,6 +1,6 @@
 birdo - bird
 bovo - cow
-ĉevalo - horse   (mnenonic: cavalier)
+ĉevalo - horse   [cavalier]
 hundo - dog
 kato - cat
 leono - lion

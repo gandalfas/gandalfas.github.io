@@ -1,6 +1,6 @@
 al - to
 apud - beside
-antaŭ - before   (mnenonic: ante meridiem "AM")
+antaŭ - before   [ante meridiem "AM"]
 ĉe - at
 ĉirkaŭ - around
 de - from, since, by, of (possession)
@@ -8,11 +8,12 @@ ekster - outside
 el - out of
 dum - during (while, as a conjunction)
 en - in
+inter - between (if two), among (if more than two)
 je - at (time), or non-specific preposition
 kun - with
 per - by (by means of)
 por - for
-post - after, behind    (mnenonic: post meridiem "PM")
+post - after, behind    [post meridiem "PM"]
 pri - about
 sen - without
 sub - under, below

@@ -1,13 +1,13 @@
 nulo - zero
-unu - one
-du - two
+unu - one    [unity, union, unify]
+du - two     [duet]
 tri - three
-kvar - four   (mnenonic: quartet)
-kvin - five   (mnenonic: quintuplet)
+kvar - four   [quartet]
+kvin - five   [quintuplet]
 ses - six
 sep - seven
-ok - eight
+ok - eight    [octagon]
 naŭ - nine
-dek - ten
+dek - ten       [decimal]
 cent - hundred
 mil - thousand

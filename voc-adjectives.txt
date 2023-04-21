@@ -1,5 +1,5 @@
 alia - other
-aŭdaca - bold  (mnenonic: audacious)
+aŭdaca - bold    [audacious]
 bela - beautiful
 bona - good
 dura - hard
@@ -10,6 +10,7 @@ granda - big
 grava - important
 ĝusta - right, correct
 juna - young
+kara - dear
 kelkaj - few, some
 klara - clear
 kontenta - pleased, content
@@ -35,4 +36,4 @@ suda - south
 sufiĉa - sufficient
 stranĝa - strange
 varma - hot
-vera - true   (mnenonic: veracity)
+vera - true   [veracity]

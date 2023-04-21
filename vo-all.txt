@@ -25,13 +25,13 @@
 -ul- - person         belulo - beautiful person
 ĝi - it
 ĝia - its
-ĝin - it
+ĝin - it (object of verb)
 ĝis - until
 ĝusta - right, correct
 ĉar - because
 ĉe - at
 ĉerizo - cherry
-ĉevalo - horse   (mnenonic: cavalier)
+ĉevalo - horse   [cavalier]
 ĉi tie - here (this place)
 ĉi tio - this (thing), in a general way
 ĉi tiu (with no noun) - this one, this one specifically
@@ -40,23 +40,25 @@
 ĉio - everything
 ĉirkaŭ - around
 ĉu - applied to sentence, makes it a yes or no question
+ĉu ne - isn't it, didn't they, etc (append to end of statement)
 ŝafo - sheep
-ŝi - she
+ŝi - she (subject) / her (object of preposition)
 ŝia - her
-ŝin - her
+ŝin - her (object of verb)
 ŝultro - shoulder
 aĉeti - to buy
 aŭ - or
-aŭdaca - bold  (mnenonic: audacious)
+aŭdaca - bold    [audacious]
 aŭtomobilo - automobile
 akiri - to acquire, get
-akvo - water     (aqua)
+akvo - water     [aqua]
 al - to
 alia - other
+ambaŭ - both     [ambidexterous, ambiguous, ambivalent]
 ami - to love
 amiko - friend
 ankaŭ - also
-antaŭ - before   (mnenonic: ante meridiem "AM")
+antaŭ - before   [ante meridiem "AM"]
 apenaŭ - barely
 apud - beside
 arĝenta - silver
@@ -72,6 +74,10 @@ birdo - bird
 blanka - white
 blua - blue
 bona - good
+Bonan matenon! - Good morning!
+Bonan nokton! - Good night!
+Bonan tagon! - Good day!
+Bonan vesperon! - Good evening!
 bone - well - as in well done.  I fare well.  (you would think it was "good/ly", but no - 'well' is the adverb form of 'good' in English!)
 Bonvenon! - Welcome.
 bovo - cow
@@ -80,18 +86,23 @@ brili - to shine
 bruna - brown
 buŝo - mouth
 cent - hundred
+centa - hundredth
 Dankon! - Thank you!
 de - from, since, by, of (possession)
-dek - ten
+dek - ten       [decimal]
+deka - tenth
 demandi - to ask
 dento - tooth
 devi - to have (must, if present tense) - I have to do it
 deziri - to desire
 diri - to say, to tell
+Diru al mi... - Tell me...
+do - so  (so, I went anyway)
 domo - house
 doni - to give
 dormi - to sleep
-du - two
+du - two     [duet]
+dua - second
 dum - during (while, as a conjunction)
 dura - hard
 eĉ - even
@@ -103,6 +114,7 @@ esplori - to explore
 esti - to be
 fali - to fall
 familio - family
+farbi - to paint (a wall)    [refurbish]
 fari - to do, to make
 farti - to fare
 feliĉa - happy
@@ -116,7 +128,7 @@ flegi - to nurse (a sick person)
 floro - flower
 forta - strong
 forte - strongly
-frato - brother   (mnenonic: fraternal)
+frato - brother   [fraternal]
 frua - early
 frunto - forehead
 gambo - leg (thigh to foot)
@@ -134,11 +146,12 @@ hodiaŭ - today
 homo - person
 hundo - dog
 ie - somewhere
-ili - they
+ili - they (subject) / them (object of preposition)
 ilia  - their
-ilin - them
+ilin - them (object of verb)
 infano - child
 instrui - to teach
+inter - between (if two), among (if more than two)
 io - something
 iri - to go
 ja - indeed
@@ -152,7 +165,9 @@ kanti - to sing
 kanto - song ("a singing")
 kapo - head
 kapti - to capture
+kara - dear
 kato - cat
+ke - that (joins two clauses)
 kelkaj - few, some
 kie - where (which place)
 Kiel vi fartas? - How are you?
@@ -163,10 +178,11 @@ kiu /noun/ - which /noun/, which /noun/ specifically
 klara - clear
 knabo - boy
 kolo - neck
-kompreni - to understand
+kompreni - to understand    [comprehend]
+koni - to know, be acquainted with (persons, places)
 kontenta - pleased, content
 kontente - contentedly
-koro - heart     (mnenonic: coronary)
+koro - heart     [coronary]
 korpo - body
 krajono - pencil
 kruro - shank (knee to foot)
@@ -178,9 +194,11 @@ kun - with
 kuri - to run
 kuzo - cousin
 kvankam - although
-kvar - four   (mnenonic: quartet)
+kvar - four   [quartet]
+kvara - fourth
 kvieta - quiet
-kvin - five   (mnenonic: quintuplet)
+kvin - five   [quintuplet]
+kvina - fifth
 la - the
 labori - to work
 lampo - lamp
@@ -188,16 +206,17 @@ larĝa - wide
 legi - to read
 leono - lion
 lerni - to learn
-li - he
+li - he (subject) / him (object of preposition)
 lia - his
 libera - free
 libere - freely
 libro - book
 ligno - wood
-lin - him
+lin - him (object of verb)
 lingvo - language
 lito - bed
 ludi - to play
+lumo - light (opposite of dark)   [illuminate, luminescent]
 makzelo - jaw
 mal- - opposite of
 malsupre - below, down
@@ -209,12 +228,14 @@ mateno - morning
 mentono - chin
 mesaĝo - message
 mezo - middle
-mi - I
+mi - I (subject) / me (object of preposition)
 Mi fartas bone. - I am well.
+Mi petas - Please
 mia - my
 mil - thousand
-min - me
-miri - to be amazed, to marvel  (mnenonic: miracle)
+mila - thousandth
+min - me (object of verb)
+miri - to be amazed, to marvel  [miracle]
 misio - mission
 momento - moment
 monato - month
@@ -224,32 +245,36 @@ morgaŭ - tomorrow
 morti - to die
 multa - much
 naŭ - nine
+naŭa - ninth
 nazo - nose
 ne - no, does not (applied to verbs)
 Nedankinde! - You're welcome!
 nek - nor
 nenie - nowhere
 nenio - nothing
-nepo - grandson   (mnenonic: nepotism)
+nepo - grandson   [nepotism]
 nevo - nephew
-ni - we
+ni - we (subject) / us (object of preposition)
 nia - our
 nigra - black
-nin - us
-nokto - night    (mnenonic: nocturnal)
+nin - us (object of verb)
+nokto - night    [nocturnal]
 norda - north
 nova - new
 nove - newly
+nu - well  (well, I can't believe he said that)
 nulo - zero
 nun - now
-ok - eight
+ok - eight    [octagon]
+oka - eighth
 okcidenta - west
 okulo - eye
 ol - than
 oni - one
 onia - one's
-onin - one
+onin - one (object of verb)
 onklo - uncle
+opinii - to think, have an opinion
 ora - gold
 oranĝkolora - orange
 orelo - ear
@@ -257,18 +282,21 @@ orienta - east
 pagi - to pay
 paroli - to speak
 patro - father
-pensi - to think
+pensi - to think   [pensive]
+pentri - to paint (a picture)    [paint]
 per - by (by means of)
 piedfingro - toe
 piedo - foot
 plafono - ceiling
 planko - floor
+plej - most (used with el)
 plena - full
+pli - more (used with ol)
 plumo - pen
 pomo - apple
 por - for
 porti - to carry
-post - after, behind    (mnenonic: post meridiem "PM")
+post - after, behind    [post meridiem "PM"]
 posttagmezo - afternoon
 povi - to be able (can, if present tense)
 preĝi - to pray
@@ -288,6 +316,7 @@ sama - same
 sana - healthy
 sankta - holy
 sata - sated, full   malsata - hungry
+scii - to know (facts)       [science]
 se - if
 seĝo - chair
 sed - but
@@ -295,8 +324,10 @@ seka - dry
 semajno - week
 sen - without
 sep - seven
+sepa - seventh
 serĉi - to search for
 ses - six
+sesa - sixth
 sidi - to sit
 skribi - to write
 stari - to stand
@@ -322,25 +353,27 @@ tra - through
 tranĉi - to cut
 tre - very
 tri - three
-unu - one
+tria - third
+unu - one    [unity, union, unify]
+unua - first
 urbo - city
 urso - bear
 vango - cheek
 varma - hot
-vendi - to sell    (mnenonic: vendor)
+vendi - to sell    [vendor]
 veni - to come
-vera - true   (mnenonic: veracity)
+vera - true   [veracity]
 verda - green
-vespero - evening   (mnenonic: vespers)
+vespero - evening   [vespers]
 vi - you (plural)
 vi - you (singular)
 via - your (plural)
 via - your (singular)
 vidi - to see
-vin - you (plural)
-vin - you (singular)
+vin - you (plural) (object of verb)
+vin - you (singular) (object of verb)
 viola - violet
-viro - man      (mnenonic: virile)
+viro - man      [virile]
 vivi - to live
 voli - to want
 vorto - word

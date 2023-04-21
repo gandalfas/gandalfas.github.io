@@ -1,4 +1,4 @@
-akvo - water     (aqua)
+akvo - water     [aqua]
 amiko - friend
 arbo - tree
 aŭtomobilo - automobile
@@ -14,13 +14,14 @@ homo - person
 jaro - year
 herbo - grass
 kanto - song ("a singing")
-koro - heart     (mnenonic: coronary)
+koro - heart     [coronary]
 krajono - pencil
 lampo - lamp
 libro - book
 ligno - wood
 lingvo - language
 lito - bed
+lumo - light (opposite of dark)   [illuminate, luminescent]
 mateno - morning
 mesaĝo - message
 mezo - middle
@@ -29,7 +30,7 @@ momento - moment
 monato - month
 mondo - world
 mono - money
-nokto - night    (mnenonic: nocturnal)
+nokto - night    [nocturnal]
 plafono - ceiling
 planko - floor
 plumo - pen
@@ -45,5 +46,5 @@ tablo - table
 tago - day
 torto - pie
 urbo - city
-vespero - evening   (mnenonic: vespers)
+vespero - evening   [vespers]
 vorto - word

@@ -1,0 +1,12 @@
+unua - first
+dua - second
+tria - third
+kvara - fourth
+kvina - fifth
+sesa - sixth
+sepa - seventh
+oka - eighth
+naŭa - ninth
+deka - tenth
+centa - hundredth
+mila - thousandth

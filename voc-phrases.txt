@@ -1,6 +1,12 @@
+Saluton! - Hi!
 Bonvenon! - Welcome.
+Mi petas - Please
 Dankon! - Thank you!
+Nedankinde! - You're welcome!
 Kiel vi fartas? - How are you?
 Mi fartas bone. - I am well.
-Nedankinde! - You're welcome!
-Saluton! - Hi!
+Bonan matenon! - Good morning!
+Bonan vesperon! - Good evening!
+Bonan tagon! - Good day!
+Bonan nokton! - Good night!
+Diru al mi... - Tell me...
