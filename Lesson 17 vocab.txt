@@ -24,7 +24,8 @@ rano - frog
 
 # pronouns
 
-ri - he/she or him/her    (gender-neutral third person singular.   not officially recognized)
+ri - he/she (subject) /  him/her (object of preposition)    (gender-neutral third person singular)
+rin - him/her (object of verb)
 
 
 # possessive adjectives
@@ -46,9 +47,8 @@ inteligenta - intelligent
 
 # adverbs
 
-inteligenta - intelligent
-malpli (with ol) - less 
-malplej (with el) - least
+malpli - less (used with ol)
+malplej - least (used with el)
 
 
 # correlatives
@@ -59,6 +59,4 @@ tiel - in that way, so
 iel - in some way, somehow
 ĉiel - in every way
 neniel - in no way
-
-
 
