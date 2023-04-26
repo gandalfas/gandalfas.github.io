@@ -1,11 +1,11 @@
-phrases
+# phrases
 
 Saluton! - Hi!
 Kiel vi fartas? - How are you?
 Mi fartas bone. - I am well.
 Bonvenon! - Welcome.
 
-personal pronouns - as a subject
+# personal pronouns - as a subject
 
 mi - I
 vi - you (singular)
@@ -17,7 +17,7 @@ vi - you (plural)
 ili - they
 oni - one
 
-verbs (intransitive - do not take an object)
+# verbs (intransitive - do not take an object)
 
 esti - to be
 marŝi - to walk
@@ -35,7 +35,7 @@ kuri - to run
 vivi - to live
 brili - to shine
 
-nouns
+# nouns
 
 viro - man
 frato - brother
@@ -52,13 +52,13 @@ amiko - friend
 birdo - bird
 libro - book
 
-adjectives
+# adjectives
 
 bela - beautiful
 bona - good
 juna - young
 feliĉa - happy
 
-suffixes
+# suffixes
 
 -in- - feminine    virino - woman

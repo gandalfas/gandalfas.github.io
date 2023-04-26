@@ -1,4 +1,4 @@
-adverbs
+# adverbs
 
 hodiaŭ - today
 hieraŭ - yesterday
@@ -20,12 +20,12 @@ kontente - contentedly
 libere - freely
 bone - well - as in well done.  I fare well.  (you would think it was "good/ly", but no - 'well' is the adverb form of 'good' in English!)
 
-correlatives
+# correlatives
 
 kie - where
 tie - there
 
-nouns
+# nouns
 
 ŝafo - sheep
 leono - lion
@@ -34,11 +34,11 @@ urso - bear
 jaro - year
 familio - family
 
-adjectives
+# adjectives
 
 kvieta = quiet
 
-suffixes
+# suffixes
 
 -an- - member of    urbano - member of city, citizen
 -ido - offspring    bovido - calf

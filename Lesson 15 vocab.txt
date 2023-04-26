@@ -1,4 +1,4 @@
-nouns
+# nouns
 
 mezo - middle
 posttagmezo - afternoon
@@ -7,7 +7,7 @@ monato - month
 semajno - week
 
 
-verbs
+# verbs
 
 aĉeti - to buy
 akiri - to acquire, get
@@ -17,7 +17,7 @@ kompreni - to understand
 miri - to be amazed, to marvel  (mnenonic: miracle)
 
 
-correlatives
+# correlatives
 
 ie - somewhere
 ĉie - everywhere

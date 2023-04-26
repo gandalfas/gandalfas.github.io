@@ -1,4 +1,4 @@
-personal pronouns - as an object
+# personal pronouns - as an object
 
 min - me
 vin - you (singular)
@@ -10,6 +10,6 @@ vin - you (plural)
 ilin - them
 onin - one
 
-suffixes
+# suffixes
 
 -eg- - much larger    virego - giant

@@ -1,4 +1,4 @@
-prepositions
+# prepositions
 
 ĉe - at
 en - in
@@ -19,7 +19,7 @@ ekster - outside
 je - at (time), or non-specific preposition
 per - by (by means of)
 
-verbs
+# verbs
 
 skribi - to write
 preĝi - to pray
@@ -33,10 +33,10 @@ lerni - to learn
 instrui - to teach
 pensi - to think
 
-nouns
+# nouns
 
 studento - student
 
-suffixes
+# suffixes
 
 -et- - much smaller    dometo - cottage

@@ -1,26 +1,26 @@
-nouns
+# nouns
 
 vespero - evening   (vespers)
 
 
-conjunctions
+# conjunctions
 
 ol - than
 ĝis - until
 kvankam - although
 
 
-suffixes
+# suffixes
 
 -aĉ- - contemptible, wretched     domaĉo - shack
 
 
-colors
+# colors
 
 viola - violet
 
 
-family
+# family
 
 onklo - uncle
 nevo - nephew

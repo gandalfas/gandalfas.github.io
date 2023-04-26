@@ -1,64 +1,51 @@
--a - adjective
 -aĉ- - contemptible, wretched     domaĉo - shack
--an- - member of      urbano - member of city, citizen
--ar- - collection     birdaro - flock
--as - present tense
--e - adverb
--ebl- - possible, -able      legebla - legible
+-an- - member of    urbano - member of city, citizen
+-ar- - collection    birdaro - flock
+-ebl- - -able       legebla - legible
 -eg- - much larger    virego - giant
--ej- - place          hundejo - doghouse
--et- - much smaller   dometo - cottage
--i - infinitive
--iĉ- - masculine      boviĉo - bull
--ido - offspring      bovido - calf
--ig- - to cause       mortigi - to kill
--il- - instrument     tranĉilo - knife
--in- - feminine       virino - woman
--ind- - worthy of     laŭdinda - praiseworthy
--is - past tense
+-ej- - place    hundejo - doghouse
+-et- - much smaller    dometo - cottage
+-iĉ- - masculine    boviĉo - bull
+-ido - offspring    bovido - calf
+-ig- - to cause    mortigi - to kill
+-il- - instrument    tranĉilo - knife
+-in- - feminine    virino - woman
+-ind- - worthy of    laŭdinda - praiseworthy
 -ist- - profession of person    instruisto - teacher
--j - plural
--n - object
--o - noun
--u - imperative (command)
--uj- - container      florujo - vase
--ul- - person         belulo - beautiful person
+-uj- - container    florujo - vase
+-ul- - person    belulo - beautiful person
 ĝi - it
 ĝia - its
-ĝin - it (object of verb)
+ĝin - it
 ĝis - until
 ĝusta - right, correct
 ĉar - because
 ĉe - at
 ĉerizo - cherry
-ĉevalo - horse   [cavalier]
-ĉi tie - here (this place)
-ĉi tio - this (thing), in a general way
-ĉi tiu (with no noun) - this one, this one specifically
-ĉi tiu /noun/ - this /noun/, this /noun/ specifically
+ĉevalo - horse
 ĉie - everywhere
 ĉio - everything
 ĉirkaŭ - around
 ĉu - applied to sentence, makes it a yes or no question
-ĉu ne - isn't it, didn't they, etc (append to end of statement)
+ĉu ne - don't you?  isn't it?  didn't they?  right?
 ŝafo - sheep
-ŝi - she (subject) / her (object of preposition)
+ŝi - she
 ŝia - her
-ŝin - her (object of verb)
+ŝin - her
 ŝultro - shoulder
 aĉeti - to buy
 aŭ - or
-aŭdaca - bold    [audacious]
+aŭdaca - bold  (audacious)
 aŭtomobilo - automobile
 akiri - to acquire, get
-akvo - water     [aqua]
+akvo - water     (aqua)
 al - to
 alia - other
-ambaŭ - both     [ambidexterous, ambiguous, ambivalent]
+ambaŭ - both    [ambidexterous, ambiguous, ambivalent]
 ami - to love
 amiko - friend
 ankaŭ - also
-antaŭ - before   [ante meridiem "AM"]
+antaŭ - before
 apenaŭ - barely
 apud - beside
 arĝenta - silver
@@ -89,7 +76,7 @@ cent - hundred
 centa - hundredth
 Dankon! - Thank you!
 de - from, since, by, of (possession)
-dek - ten       [decimal]
+dek - ten
 deka - tenth
 demandi - to ask
 dento - tooth
@@ -101,7 +88,7 @@ do - so  (so, I went anyway)
 domo - house
 doni - to give
 dormi - to sleep
-du - two     [duet]
+du - two
 dua - second
 dum - during (while, as a conjunction)
 dura - hard
@@ -128,7 +115,7 @@ flegi - to nurse (a sick person)
 floro - flower
 forta - strong
 forte - strongly
-frato - brother   [fraternal]
+frato - brother
 frua - early
 frunto - forehead
 gambo - leg (thigh to foot)
@@ -146,9 +133,9 @@ hodiaŭ - today
 homo - person
 hundo - dog
 ie - somewhere
-ili - they (subject) / them (object of preposition)
+ili - they
 ilia  - their
-ilin - them (object of verb)
+ilin - them
 infano - child
 instrui - to teach
 inter - between (if two), among (if more than two)
@@ -157,7 +144,7 @@ iri - to go
 ja - indeed
 jam - already
 jaro - year
-je - on (date), at (time), -or- a non-specific preposition
+je - at (time), or non-specific preposition
 jes - yes
 juna - young
 kaj - and
@@ -169,20 +156,20 @@ kara - dear
 kato - cat
 ke - that (joins two clauses)
 kelkaj - few, some
-kie - where (which place)
+kie - where
 Kiel vi fartas? - How are you?
 kio - what (thing), in a general way
 kisi - to kiss
-kiu (with no noun) - which one, which one specifically (or who, if you know it's a person)
-kiu /noun/ - which /noun/, which /noun/ specifically
+kiu - which one, which one specifically (or who, if you know it's a person)
+kiu *noun* - which *noun*, which *noun* specifically
 klara - clear
 knabo - boy
 kolo - neck
-kompreni - to understand    [comprehend]
+kompreni - to understand
 koni - to know, be acquainted with (persons, places)
 kontenta - pleased, content
 kontente - contentedly
-koro - heart     [coronary]
+koro - heart     (coronary)
 korpo - body
 krajono - pencil
 kruro - shank (knee to foot)
@@ -194,10 +181,10 @@ kun - with
 kuri - to run
 kuzo - cousin
 kvankam - although
-kvar - four   [quartet]
+kvar - four
 kvara - fourth
-kvieta - quiet
-kvin - five   [quintuplet]
+kvieta = quiet
+kvin - five
 kvina - fifth
 la - the
 labori - to work
@@ -206,19 +193,20 @@ larĝa - wide
 legi - to read
 leono - lion
 lerni - to learn
-li - he (subject) / him (object of preposition)
+li - he
 lia - his
 libera - free
 libere - freely
 libro - book
 ligno - wood
-lin - him (object of verb)
+lin - him
 lingvo - language
 lito - bed
 ludi - to play
 lumo - light (opposite of dark)   [illuminate, luminescent]
 makzelo - jaw
 mal- - opposite of
+malsata - hungry
 malsupre - below, down
 manĝi - to eat
 manki - to lack, to be absent, to be missing.  Vi mankas min.  You are missing to me = I miss you.
@@ -228,14 +216,14 @@ mateno - morning
 mentono - chin
 mesaĝo - message
 mezo - middle
-mi - I (subject) / me (object of preposition)
+mi - I
 Mi fartas bone. - I am well.
 Mi petas - Please
 mia - my
 mil - thousand
 mila - thousandth
-min - me (object of verb)
-miri - to be amazed, to marvel  [miracle]
+min - me
+miri - to be amazed, to marvel  (mnenonic: miracle)
 misio - mission
 momento - moment
 monato - month
@@ -247,32 +235,33 @@ multa - much
 naŭ - nine
 naŭa - ninth
 nazo - nose
-ne - no, does not (applied to verbs)
+ne - does not (applied to verbs)
+ne - no
 Nedankinde! - You're welcome!
 nek - nor
 nenie - nowhere
 nenio - nothing
-nepo - grandson   [nepotism]
+nepo - grandson
 nevo - nephew
-ni - we (subject) / us (object of preposition)
+ni - we
 nia - our
 nigra - black
-nin - us (object of verb)
-nokto - night    [nocturnal]
+nin - us
+nokto - night    (nocturnal)
 norda - north
 nova - new
 nove - newly
 nu - well  (well, I can't believe he said that)
 nulo - zero
 nun - now
-ok - eight    [octagon]
+ok - eight
 oka - eighth
 okcidenta - west
 okulo - eye
 ol - than
 oni - one
 onia - one's
-onin - one (object of verb)
+onin - one
 onklo - uncle
 opinii - to think, have an opinion
 ora - gold
@@ -282,7 +271,7 @@ orienta - east
 pagi - to pay
 paroli - to speak
 patro - father
-pensi - to think   [pensive]
+pensi - to think
 pentri - to paint (a picture)    [paint]
 per - by (by means of)
 piedfingro - toe
@@ -296,7 +285,7 @@ plumo - pen
 pomo - apple
 por - for
 porti - to carry
-post - after, behind    [post meridiem "PM"]
+post - after, behind
 posttagmezo - afternoon
 povi - to be able (can, if present tense)
 preĝi - to pray
@@ -315,7 +304,7 @@ Saluton! - Hi!
 sama - same
 sana - healthy
 sankta - holy
-sata - sated, full   malsata - hungry
+sata - sated, full
 scii - to know (facts)       [science]
 se - if
 seĝo - chair
@@ -344,36 +333,36 @@ supre - above, up
 sur - on
 tablo - table
 tago - day
-tie - there (that place)
+tie - there
 tio - that (thing), in a general way
-tiu (with no noun) - that one, that one specifically
-tiu /noun/ - that /noun/, that /noun/ specifically
+tiu - that one, that one specifically
+tiu *noun* - that *noun*, that *noun* specifically
 torto - pie
 tra - through
 tranĉi - to cut
 tre - very
 tri - three
 tria - third
-unu - one    [unity, union, unify]
+unu - one
 unua - first
 urbo - city
 urso - bear
 vango - cheek
 varma - hot
-vendi - to sell    [vendor]
+vendi - to sell    (vendor)
 veni - to come
-vera - true   [veracity]
+vera - true   (veracity)
 verda - green
-vespero - evening   [vespers]
+vespero - evening   (vespers)
 vi - you (plural)
 vi - you (singular)
 via - your (plural)
 via - your (singular)
 vidi - to see
-vin - you (plural) (object of verb)
-vin - you (singular) (object of verb)
+vin - you (plural)
+vin - you (singular)
 viola - violet
-viro - man      [virile]
+viro - man
 vivi - to live
 voli - to want
 vorto - word

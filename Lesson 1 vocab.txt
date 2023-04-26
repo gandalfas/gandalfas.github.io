@@ -1,4 +1,4 @@
-numbers
+# numbers
 
 nulo - zero
 unu - one
@@ -14,11 +14,11 @@ dek - ten
 cent - hundred
 mil - thousand
 
-articles
+# articles
 
 la - the
 
-colors
+# colors
 
 ruĝa - red
 blua - blue

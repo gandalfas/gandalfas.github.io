@@ -8,10 +8,16 @@ nenio - nothing
 kiu /noun/ - which /noun/, which /noun/ specifically
 tiu /noun/ - that /noun/, that /noun/ specifically
 ĉi tiu /noun/ - this /noun/, this /noun/ specifically
+iu /noun/ - some /noun/
+ĉiu /noun/ - every /noun/
+neniu /noun/ - no /noun/
 
 kiu (with no noun) - which one, which one specifically (or who, if you know it's a person)
 tiu (with no noun) - that one, that one specifically
 ĉi tiu (with no noun) - this one, this one specifically
+iu (with no noun) - someone
+ĉiu (with no noun) - everyone
+neniu (with no noun) - no one
 
 kie - where (which place)
 tie - there (that place)

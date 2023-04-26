@@ -1,21 +1,21 @@
-particles
+# particles
 
 jes - yes
 ne - no
 ĉu - applied to sentence, makes it a yes or no question
 
-verbs
+# verbs
 
 tranĉi - to cut
 kudri - to sew
 
-nouns
+# nouns
 
 mono - money
 krajono - pencil
 ligno - wood
 
-suffixes
+# suffixes
 
 -il- - instrument    tranĉilo - knife
 -uj- - container    florujo - vase

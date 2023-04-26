@@ -1,17 +1,17 @@
-particles
+# particles
 
 ne - does not (applied to verbs)
 
-nouns
+# nouns
 
 dento - tooth
 urbo - city
 
-verbs
+# verbs
 
 programi - to program (a computer)
 
-suffixes
+# suffixes
 
 -ul- - person    belulo - beautiful person
 -ist- - profession of person    instruisto - teacher

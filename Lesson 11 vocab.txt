@@ -1,4 +1,4 @@
-nouns
+# nouns
 
 ĉerizo - cherry
 torto - pie
@@ -9,13 +9,13 @@ mondo - world
 momento - moment
 kanto - song ("a singing")
 
-adjectives
+# adjectives
 
 aŭdaca - bold  (audacious)
 ĝusta - right, correct
 stranĝa - strange
 
-verbs
+# verbs
 
 demandi - to ask
 halti - to stop
@@ -24,13 +24,13 @@ serĉi - to search for
 helpi - to help
 esplori - to explore
 
-correlatives
+# correlatives
 
 io - something
 ĉio - everything
 nenio - nothing
 
-suffixes
+# suffixes
 
 -iĉ- - masculine    boviĉo - bull
 -ebl- - -able       legebla - legible

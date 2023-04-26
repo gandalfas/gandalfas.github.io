@@ -1,4 +1,4 @@
-nouns
+# nouns
 
 nokto - night    (nocturnal)
 strato - street
@@ -8,14 +8,14 @@ akvo - water     (aqua)
 biero - beer
 
 
-adjectives
+# adjectives
 
 vera - true   (veracity)
 grava - important
 sufiĉa - sufficient
 
 
-verbs
+# verbs
 
 doni - to give
 preni - to take

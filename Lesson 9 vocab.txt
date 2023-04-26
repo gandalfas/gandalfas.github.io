@@ -1,4 +1,4 @@
-possessive adjectives
+# possessive adjectives
 
 mia - my
 via - your (singular)
@@ -11,18 +11,18 @@ ilia  - their
 onia - one's
 
 
-suffixes
+# suffixes
 
 -ind- - worthy of    laŭdinda - praiseworthy
 -ig- - to cause    mortigi - to kill
 
-verbs
+# verbs
 
 fidi - to trust
 morti - to die
 kapti - to capture
 
-nouns
+# nouns
 
 aŭtomobilo - automobile
 vorto - word

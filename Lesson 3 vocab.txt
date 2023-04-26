@@ -1,4 +1,4 @@
-nouns
+# nouns
 
 tablo - table
 fenestro - window
@@ -15,7 +15,7 @@ suno - sun
 homo - person
 bovo - cow
 
-adjectives
+# adjectives
 
 seka - dry
 varma - hot
@@ -30,15 +30,15 @@ sana - healthy
 sankta - holy
 proksima - near
 
-correlatives
+# correlatives
 
 kio - what (thing), in a general way
 tio - that (thing), in a general way
 
-prefixes
+# prefixes
 
 mal- - opposite of
 
-suffixes
+# suffixes
 
 -ar- - collection    birdaro - flock

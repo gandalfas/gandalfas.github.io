@@ -1,4 +1,4 @@
-phrases
+# phrases
 
 Diru al mi... - Tell me...
 Mi petas - Please
@@ -8,16 +8,16 @@ Bonan tagon! - Good day!
 Bonan nokton! - Good night!
 
 
-adverbs
+# adverbs
 
 pli - more (used with ol)
 plej - most (used with el)
 
-nouns
+# nouns
 
 lumo - light (opposite of dark)   [illuminate, luminescent]
 
-verbs
+# verbs
 
 opinii - to think, have an opinion
 koni - to know, be acquainted with (persons, places)
@@ -26,7 +26,7 @@ farbi - to paint (a wall)    [refurbish]
 pentri - to paint (a picture)    [paint]
 
 
-adjectives
+# adjectives
 
 kara - dear
 
@@ -44,27 +44,27 @@ centa - hundredth
 mila - thousandth
 
 
-exclamations
+# exclamations
 
 do - so  (so, I went anyway)
 nu - well  (well, I can't believe he said that)
 
 
-pronouns
+# pronouns
 
 ambaŭ - both    [ambidexterous, ambiguous, ambivalent]
 
 
-conjunctions
+# conjunctions
 
 ke - that (joins two clauses)
 
 
-particles
+# particles
 
 ĉu ne - don't you?  isn't it?  didn't they?  right?
 
 
-prepositions
+# prepositions
 
 inter - between (if two), among (if more than two)

@@ -1,16 +1,17 @@
-phrases
+# phrases
 
 Dankon! - Thank you!
 Nedankinde! - You're welcome!
 
-prepositions
+
+# prepositions
 
 sur - on
 al - to
 de - from, since, by, of (possession)
 
 
-verbs (transitive - take an object)
+# verbs (transitive - take an object)
 
 havi - to have
 ami - to love
@@ -23,7 +24,7 @@ diri - to say, to tell
 vidi - to see
 
 
-correlatives
+# correlatives
 
 kiu *noun* - which *noun*, which *noun* specifically
 tiu *noun* - that *noun*, that *noun* specifically
@@ -31,7 +32,7 @@ tiu *noun* - that *noun*, that *noun* specifically
 kiu - which one, which one specifically (or who, if you know it's a person)
 tiu - that one, that one specifically
 
-adjectives
+# adjectives
 
 multa - much
 rapida - fast
@@ -50,7 +51,7 @@ sata - sated, full
 malsata - hungry
 kelkaj - few, some
 
-conjunctions
+# conjunctions
 
 kaj - and
 aŭ - or
@@ -60,7 +61,7 @@ ankaŭ - also
 ĉar - because
 se - if
 
-nouns
+# nouns
 
 lingvo - language
 pomo - apple
@@ -87,6 +88,6 @@ genuo - knee
 piedo - foot
 piedfingro - toe
 
-suffixes
+# suffixes
 
 -ej- - place    hundejo - doghouse

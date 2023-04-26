@@ -1,10 +1,10 @@
-nouns
+# nouns
 
 mateno - morning
 mesaĝo - message
 
 
-verbs
+# verbs
 
 vendi - to sell    (vendor)
 pagi - to pay
