@@ -1,0 +1,64 @@
+# nouns - days of the week
+
+lundo - Monday
+mardo - Tuesday
+merkredo - Wednesday
+ĵaŭdo - Thursday
+vendredo - Friday
+sabato - Saturday
+dimanĉo - Sunday
+
+
+# nouns - family
+
+edzo - husband
+
+
+# nouns
+
+fajro - fire
+homo - person
+ranĉo - ranch
+rano - frog
+
+
+# pronouns
+
+ri - he/she or him/her    (gender-neutral third person singular.   not officially recognized)
+
+
+# possessive adjectives
+
+ria - his/her
+
+
+# verbs
+
+bezoni - to need
+flugi - to fly
+kredi - to believe   [credible, incredible, creed]
+
+
+# adjectives
+
+inteligenta - intelligent
+
+
+# adverbs
+
+inteligenta - intelligent
+malpli (with ol) - less 
+malplej (with el) - least
+
+
+# correlatives
+
+kiel - in what way, how
+tiel - in that way, so
+ĉi tiel - in this way
+iel - in some way, somehow
+ĉiel - in every way
+neniel - in no way
+
+
+
