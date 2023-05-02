@@ -1,6 +1,7 @@
 aĉeti - to buy
 akiri - to acquire, get
 ami - to love
+bezoni - to need
 brili - to shine
 demandi - to ask
 devi - to have (must, if present tense) - I have to do it
@@ -17,6 +18,7 @@ farbi - to paint (a wall)    [refurbish]
 farti - to fare
 fidi - to trust
 flegi - to nurse (a sick person)
+flugi - to fly
 halti - to stop
 havi - to have
 helpi - to help
@@ -27,6 +29,7 @@ kapti - to capture
 kisi - to kiss
 kompreni - to understand    [comprehend]
 koni - to know, be acquainted with (persons, places)
+kredi - to believe   [credible, incredible, creed]
 kudri - to sew
 kuiri - to cook
 kuri - to run

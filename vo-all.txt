@@ -28,6 +28,7 @@
 ĝin - it (object of verb)
 ĝis - until
 ĝusta - right, correct
+ĵaŭdo - Thursday     [Jupiter, jovial] 
 ĉar - because
 ĉe - at
 ĉerizo - cherry
@@ -39,6 +40,8 @@
 ĉie - everywhere
 ĉio - everything
 ĉirkaŭ - around
+ĉiu (with no noun) - everyone
+ĉiu /noun/ - every /noun/
 ĉu - applied to sentence, makes it a yes or no question
 ĉu ne - isn't it, didn't they, etc (append to end of statement)
 ŝafo - sheep
@@ -69,6 +72,7 @@ bano - bath
 bebo - baby
 bela - beautiful
 bele - beautifully
+bezoni - to need
 biero - beer
 birdo - bird
 blanka - white
@@ -95,6 +99,7 @@ demandi - to ask
 dento - tooth
 devi - to have (must, if present tense) - I have to do it
 deziri - to desire
+dimanĉo - Sunday   [dominica = Day of the Lord]
 diri - to say, to tell
 Diru al mi... - Tell me...
 do - so  (so, I went anyway)
@@ -106,12 +111,14 @@ dua - second
 dum - during (while, as a conjunction)
 dura - hard
 eĉ - even
+edzo - husband
 ekster - outside
 el - out of
 en - in
 esperi - to hope
 esplori - to explore
 esti - to be
+fajro - fire
 fali - to fall
 familio - family
 farbi - to paint (a wall)    [refurbish]
@@ -126,6 +133,7 @@ fingro - finger
 flava - yellow
 flegi - to nurse (a sick person)
 floro - flower
+flugi - to fly
 forta - strong
 forte - strongly
 frato - brother   [fraternal]
@@ -151,9 +159,12 @@ ilia  - their
 ilin - them (object of verb)
 infano - child
 instrui - to teach
+inteligenta - intelligent
 inter - between (if two), among (if more than two)
 io - something
 iri - to go
+iu (with no noun) - someone
+iu /noun/ - some /noun/
 ja - indeed
 jam - already
 jaro - year
@@ -185,6 +196,7 @@ kontente - contentedly
 koro - heart     [coronary]
 korpo - body
 krajono - pencil
+kredi - to believe   [credible, incredible, creed]
 kruro - shank (knee to foot)
 kuŝi - to lie down
 kubuto - elbow
@@ -217,6 +229,7 @@ lingvo - language
 lito - bed
 ludi - to play
 lumo - light (opposite of dark)   [illuminate, luminescent]
+lundo - Monday   [lunar, lunatic]
 makzelo - jaw
 mal- - opposite of
 malsupre - below, down
@@ -224,8 +237,10 @@ manĝi - to eat
 manki - to lack, to be absent, to be missing.  Vi mankas min.  You are missing to me = I miss you.
 mano - hand
 marŝi - to walk
+mardo - Tuesday   [Mars, Mardi Gras]
 mateno - morning
 mentono - chin
+merkredo - Wednesday   [Mercury]
 mesaĝo - message
 mezo - middle
 mi - I (subject) / me (object of preposition)
@@ -243,7 +258,8 @@ mondo - world
 mono - money
 morgaŭ - tomorrow
 morti - to die
-multa - much
+multa - much (for uncountable things like water, salt, sand)
+multaj - many (for countable things like miles, boys, fingers)
 naŭ - nine
 naŭa - ninth
 nazo - nose
@@ -252,6 +268,8 @@ Nedankinde! - You're welcome!
 nek - nor
 nenie - nowhere
 nenio - nothing
+neniu (with no noun) - no one
+neniu /noun/ - no /noun/
 nepo - grandson   [nepotism]
 nevo - nephew
 ni - we (subject) / us (object of preposition)
@@ -301,16 +319,20 @@ posttagmezo - afternoon
 povi - to be able (can, if present tense)
 preĝi - to pray
 preni - to take
+preskaŭ - almost
 pri - about
 programi - to program (a computer)
 proksima - near
 pura - clean
 purpura - purple
+ranĉo - ranch
+rano - frog
 rapida - fast
 revuo - magazine
 ricevi - to receive
 ridi - to laugh
 ruĝa - red
+sabato - Saturday   [sabbath]
 Saluton! - Hi!
 sama - same
 sana - healthy
@@ -361,6 +383,7 @@ urso - bear
 vango - cheek
 varma - hot
 vendi - to sell    [vendor]
+vendredo - Friday    [Venus]
 veni - to come
 vera - true   [veracity]
 verda - green

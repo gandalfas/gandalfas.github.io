@@ -9,6 +9,7 @@ frua - early
 granda - big
 grava - important
 ĝusta - right, correct
+inteligenta - intelligent
 juna - young
 kara - dear
 kelkaj - few, some
@@ -17,7 +18,8 @@ kontenta - pleased, content
 kvieta - quiet
 libera - free
 larĝa - wide
-multa - much
+multa - much (for uncountable things like water, salt, sand)
+multaj - many (for countable things like miles, boys, fingers)
 norda - north
 nova - new
 okcidenta - west
