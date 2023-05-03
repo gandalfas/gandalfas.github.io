@@ -1,29 +1,29 @@
-# correlatives
+# nouns
 
-kiel - in what way, how
-tiel - in that way, so
-ĉi tiel - in this way
-iel - in some way, somehow
-ĉiel - in every way
-neniel - in no way
-
-ajn - -ever (with ki- words), any (with i- words)
+bildo - picture
+luno - moon      [lunar]
+tero - land or Earth     [subterranean]
+stelo - star     [stellar]
+vento - wind     [vent]
 
 
-# adverbs
+# nouns-animals
 
-malpli - less (used with ol)
-malplej - least (used with el)
-
-
-# pronouns
-
-ri - he/she (subject) /  him/her (object of preposition)    (gender-neutral third person singular)
-rin - him/her (object of verb)
+baleno - whale      [baleen]
+besto - animal      [beast]
+cervo - deer
 
 
-# possessive adjectives
+# nouns-body-parts
 
-ria - his/her
+brusto - chest
+dorso - back       [dorsal fin]
+ventro - belly     [ventral fin]
 
 
+# nouns-family
+
+Sinjoro - Mr.
+Sinjorino - Mrs.
+Fraŭlino - Miss
+Fraŭlo - Mr. Bachelor
