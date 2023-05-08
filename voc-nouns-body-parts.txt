@@ -1,5 +1,7 @@
 brako - arm
+brusto - chest
 buŝo - mouth
+dorso - back       [dorsal fin]
 fingro - finger
 gambo - leg (thigh to foot)
 kapo - head
@@ -11,7 +13,6 @@ okulo - eye
 orelo - ear
 piedo - foot
 piedfingro - toe
-
 frunto - forehead
 genuo - knee
 kolo - neck
@@ -20,3 +21,4 @@ makzelo - jaw
 mentono - chin
 ŝultro - shoulder
 vango - cheek
+ventro - belly     [ventral fin]

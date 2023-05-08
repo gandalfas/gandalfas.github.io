@@ -4,6 +4,7 @@ arbo - tree
 aŭtomobilo - automobile
 bano - bath
 biero - beer
+bildo - picture
 ĉerizo - cherry
 dento - tooth
 domo - house
@@ -23,6 +24,7 @@ ligno - wood
 lingvo - language
 lito - bed
 lumo - light (opposite of dark)   [illuminate, luminescent]
+luno - moon      [lunar]
 mateno - morning
 mesaĝo - message
 mezo - middle
@@ -42,12 +44,15 @@ rano - frog
 revuo - magazine
 seĝo - chair
 semajno - week
+stelo - star     [stellar]
 strato - street
 studento - student
 suno - sun
 tablo - table
 tago - day
+tero - land or Earth     [subterranean]
 torto - pie
 urbo - city
+vento - wind     [vent]
 vespero - evening   [vespers]
 vorto - word

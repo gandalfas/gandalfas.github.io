@@ -1,5 +1,8 @@
+baleno - whale      [baleen]
+besto - animal      [beast]
 birdo - bird
 bovo - cow
+cervo - deer
 ĉevalo - horse   [cavalier]
 hundo - dog
 kato - cat

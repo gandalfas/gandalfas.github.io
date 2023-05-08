@@ -4,6 +4,8 @@ edzo - husband
 familio - family
 filo - son
 frato - brother   [fraternal]
+Fraŭlo - Mr. (Bachelor)
+Fraŭlino - Miss
 infano - child
 knabo - boy
 kuzo - cousin
@@ -11,4 +13,6 @@ nepo - grandson   [nepotism]
 nevo - nephew
 onklo - uncle
 patro - father
+Sinjoro - Mr.
+Sinjorino - Mrs.
 viro - man      [virile]

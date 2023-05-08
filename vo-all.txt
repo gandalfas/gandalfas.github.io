@@ -68,12 +68,15 @@ arĝenta - silver
 arbo - tree
 avo - grandfather
 baldaŭ - soon
+baleno - whale      [baleen]
 bano - bath
 bebo - baby
 bela - beautiful
 bele - beautifully
+besto - animal      [beast]
 bezoni - to need
 biero - beer
+bildo - picture
 birdo - bird
 blanka - white
 blua - blue
@@ -88,9 +91,11 @@ bovo - cow
 brako - arm
 brili - to shine
 bruna - brown
+brusto - chest
 buŝo - mouth
 cent - hundred
 centa - hundredth
+cervo - deer
 Dankon! - Thank you!
 de - from, since, by, of (possession)
 dek - ten       [decimal]
@@ -106,6 +111,7 @@ do - so  (so, I went anyway)
 domo - house
 doni - to give
 dormi - to sleep
+dorso - back       [dorsal fin]
 du - two     [duet]
 dua - second
 dum - during (while, as a conjunction)
@@ -136,6 +142,8 @@ floro - flower
 flugi - to fly
 forta - strong
 forte - strongly
+Fraŭlino - Miss
+Fraŭlo - Mr. (Bachelor)
 frato - brother   [fraternal]
 frua - early
 frunto - forehead
@@ -230,6 +238,7 @@ lito - bed
 ludi - to play
 lumo - light (opposite of dark)   [illuminate, luminescent]
 lundo - Monday   [lunar, lunatic]
+luno - moon      [lunar]
 makzelo - jaw
 mal- - opposite of
 malsupre - below, down
@@ -351,8 +360,11 @@ serĉi - to search for
 ses - six
 sesa - sixth
 sidi - to sit
+Sinjorino - Mrs.
+Sinjoro - Mr.
 skribi - to write
 stari - to stand
+stelo - star     [stellar]
 stranĝa - strange
 strato - street
 studento - student
@@ -366,6 +378,7 @@ supre - above, up
 sur - on
 tablo - table
 tago - day
+tero - land or Earth     [subterranean]
 tie - there (that place)
 tio - that (thing), in a general way
 tiu (with no noun) - that one, that one specifically
@@ -385,6 +398,8 @@ varma - hot
 vendi - to sell    [vendor]
 vendredo - Friday    [Venus]
 veni - to come
+vento - wind     [vent]
+ventro - belly     [ventral fin]
 vera - true   [veracity]
 verda - green
 vespero - evening   [vespers]
