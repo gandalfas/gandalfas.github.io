@@ -1,0 +1,18 @@
+-os - verb, future
+-us - verb, (would) - expresses an imaginary action (subjunctive)
+the active participles -  
+-anta - participle, present active (amanta viro - a loving man)
+-inta - participle, past active (aminta viro - a having-loved man, a man that was loving)
+-onta - participle, future active (amonta viro - an about-to-love man, a man that will be loving)
+the passive participles -  
+-ata - participle, present passive (amata viro - a (being-) loved man
+-ita - participle, past passive (amita viro - a was-loved man, a man that was loved
+-ota - participle, future passive (amota viro - an about-to-be-loved man, a man that will be loved)
+nouns derived from active participle -  
+-anto - (doer, present) - person that X'es
+-into - (doer, past) - person that was X'ing
+-onto - (doer, future) - person that will be X'ing
+nouns derived from passive participle -  
+-ato - (receiver, present) - person that is X'ed
+-ito - (receiver, past) - person that was X'ed
+-oto - (receiver, future) - person that will be X'ed

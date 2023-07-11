@@ -1,0 +1,9 @@
+-a - adjective
+-as - present tense (verb)
+-e - adverb
+-i - infinitive (verb)
+-is - past tense (verb)
+-j - plural
+-n - object
+-o - noun
+-u - imperative (command) (verb)

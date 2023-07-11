@@ -3,22 +3,22 @@ brusto - chest
 buŝo - mouth
 dorso - back       [dorsal fin]
 fingro - finger
+frunto - forehead
 gambo - leg (thigh to foot)
+genuo - knee
 kapo - head
+kolo - neck
 korpo - body
 kruro - shank (knee to foot)
+kubuto - elbow
+makzelo - jaw
 mano - hand
+mentono - chin
 nazo - nose
 okulo - eye
 orelo - ear
 piedo - foot
 piedfingro - toe
-frunto - forehead
-genuo - knee
-kolo - neck
-kubuto - elbow
-makzelo - jaw
-mentono - chin
 ŝultro - shoulder
 vango - cheek
 ventro - belly     [ventral fin]

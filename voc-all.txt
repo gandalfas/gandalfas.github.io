@@ -2,25 +2,25 @@
 -aĉ- - contemptible, wretched     domaĉo - shack
 -an- - member of      urbano - member of city, citizen
 -ar- - collection     birdaro - flock
--as - present tense
+-as - present tense (verb)
 -e - adverb
 -ebl- - possible, -able      legebla - legible
 -eg- - much larger    virego - giant
 -ej- - place          hundejo - doghouse
 -et- - much smaller   dometo - cottage
--i - infinitive
+-i - infinitive (verb)
 -iĉ- - masculine      boviĉo - bull
 -ido - offspring      bovido - calf
 -ig- - to cause       mortigi - to kill
 -il- - instrument     tranĉilo - knife
 -in- - feminine       virino - woman
 -ind- - worthy of     laŭdinda - praiseworthy
--is - past tense
+-is - past tense (verb)
 -ist- - profession of person    instruisto - teacher
 -j - plural
 -n - object
 -o - noun
--u - imperative (command)
+-u - imperative (command) (verb)
 -uj- - container      florujo - vase
 -ul- - person         belulo - beautiful person
 ĝi - it
@@ -291,7 +291,7 @@ nova - new
 nove - newly
 nu - well  (well, I can't believe he said that)
 nulo - zero
-nun - now
+nun - now (nuna~present, current ("nowish"))
 ok - eight    [octagon]
 oka - eighth
 okcidenta - west
@@ -347,7 +347,7 @@ sama - same
 sana - healthy
 sankta - holy
 sata - sated, full   malsata - hungry
-scii - to know (facts)       [science]
+scii - to know (a fact)       [science]
 se - if
 seĝo - chair
 sed - but

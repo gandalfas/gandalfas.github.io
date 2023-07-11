@@ -1,9 +1,0 @@
--a - adjective
--as - present tense
--e - adverb
--i - infinitive
--is - past tense
--j - plural
--n - object
--o - noun
--u - imperative (command)
