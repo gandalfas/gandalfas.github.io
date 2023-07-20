@@ -2,6 +2,7 @@ mi - I (subject) / me (object of preposition)
 vi - you (singular)
 li - he (subject) / him (object of preposition)
 ŝi - she (subject) / her (object of preposition)
+ri - he/she (subject) /  him/her (object of preposition)    (gender-neutral third person singular)
 ĝi - it
 ni - we (subject) / us (object of preposition)
 vi - you (plural)
@@ -12,6 +13,7 @@ min - me (object of verb)
 vin - you (singular) (object of verb)
 lin - him (object of verb)
 ŝin - her (object of verb)
+rin - him/her (object of verb)
 ĝin - it (object of verb)
 nin - us (object of verb)
 vin - you (plural) (object of verb)
@@ -22,6 +24,7 @@ mia - my
 via - your (singular)
 lia - his
 ŝia - her
+ria - his/her
 ĝia - its
 nia - our
 via - your (plural)

@@ -34,10 +34,12 @@
 ĉerizo - cherry
 ĉevalo - horse   [cavalier]
 ĉi tie - here (this place)
+ĉi tiel - in this way
 ĉi tio - this (thing), in a general way
 ĉi tiu (with no noun) - this one, this one specifically
 ĉi tiu /noun/ - this /noun/, this /noun/ specifically
 ĉie - everywhere
+ĉiel - in every way
 ĉio - everything
 ĉirkaŭ - around
 ĉiu (with no noun) - everyone
@@ -53,6 +55,7 @@ aĉeti - to buy
 aŭ - or
 aŭdaca - bold    [audacious]
 aŭtomobilo - automobile
+ajn - -ever (with ki- words), any (with i- words)
 akiri - to acquire, get
 akvo - water     [aqua]
 al - to
@@ -162,6 +165,7 @@ hodiaŭ - today
 homo - person
 hundo - dog
 ie - somewhere
+iel - in some way, somehow
 ili - they (subject) / them (object of preposition)
 ilia  - their
 ilin - them (object of verb)
@@ -189,6 +193,7 @@ kato - cat
 ke - that (joins two clauses)
 kelkaj - few, some
 kie - where (which place)
+kiel - in what way, how
 Kiel vi fartas? - How are you?
 kio - what (thing), in a general way
 kisi - to kiss
@@ -241,6 +246,8 @@ lundo - Monday   [lunar, lunatic]
 luno - moon      [lunar]
 makzelo - jaw
 mal- - opposite of
+malplej - least (used with el)
+malpli - less (used with ol)
 malsupre - below, down
 manĝi - to eat
 manki - to lack, to be absent, to be missing.  Vi mankas min.  You are missing to me = I miss you.
@@ -276,6 +283,7 @@ ne - no, does not (applied to verbs)
 Nedankinde! - You're welcome!
 nek - nor
 nenie - nowhere
+neniel - in no way
 nenio - nothing
 neniu (with no noun) - no one
 neniu /noun/ - no /noun/
@@ -338,8 +346,11 @@ ranĉo - ranch
 rano - frog
 rapida - fast
 revuo - magazine
+ri - he/she (subject) /  him/her (object of preposition)    (gender-neutral third person singular)
+ria - his/her
 ricevi - to receive
 ridi - to laugh
+rin - him/her (object of verb)
 ruĝa - red
 sabato - Saturday   [sabbath]
 Saluton! - Hi!
@@ -380,6 +391,7 @@ tablo - table
 tago - day
 tero - land or Earth     [subterranean]
 tie - there (that place)
+tiel - in that way, so
 tio - that (thing), in a general way
 tiu (with no noun) - that one, that one specifically
 tiu /noun/ - that /noun/, that /noun/ specifically

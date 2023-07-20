@@ -5,6 +5,8 @@ hieraŭ - yesterday
 hodiaŭ - today
 ja - indeed
 jam - already
+malpli - less (used with ol)
+malplej - least (used with el)
 malsupre - below, down
 morgaŭ - tomorrow
 nun - now (nuna~present, current ("nowish"))
