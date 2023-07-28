@@ -1,68 +1,72 @@
+demandi - to ask
+halti - to stop
+flegi - to nurse (a sick person)
+serĉi - to search for
+helpi - to help
+esplori - to explore
+doni - to give     [donate]
+preni - to take
+deziri - to desire
+vendi - to sell    [vendor]
+pagi - to pay
+kuŝi - to lie down
+fali - to fall
+manki - to lack, to be absent, to be missing.  Vi mankas min.  You are missing to me = I miss you.
 aĉeti - to buy
 akiri - to acquire, get
-ami - to love
-bezoni - to need
-brili - to shine
-demandi - to ask
-devi - to have (must, if present tense) - I have to do it
-deziri - to desire
-diri - to say, to tell
-doni - to give
-dormi - to sleep
-esperi - to hope
-esplori - to explore
-esti - to be
-fali - to fall
-fari - to do, to make
-farbi - to paint (a wall)    [refurbish]
-farti - to fare
-fidi - to trust
-flegi - to nurse (a sick person)
-flugi - to fly
-halti - to stop
-havi - to have
-helpi - to help
-instrui - to teach
-iri - to go
-kanti - to sing
-kapti - to capture
-kisi - to kiss
-kompreni - to understand    [comprehend]
-koni - to know, be acquainted with (persons, places)
-kredi - to believe   [credible, incredible, creed]
-kudri - to sew
-kuiri - to cook
-kuri - to run
-kuŝi - to lie down
-labori - to work
-legi - to read
-lerni - to learn
 ludi - to play
-manĝi - to eat
-manki - to lack, to be absent, to be missing.  Vi mankas min.  You are missing to me = I miss you.
-marŝi - to walk
-miri - to be amazed, to marvel  [miracle]
-morti - to die
-opinii - to think, have an opinion
-pagi - to pay
-paroli - to speak
-pensi - to think   [pensive]
-pentri - to paint (a picture)    [paint]
-porti - to carry
-povi - to be able (can, if present tense)
-preĝi - to pray
-preni - to take
-programi - to program (a computer)
 ricevi - to receive
-ridi - to laugh
+kompreni - to understand    [comprehend]
+miri - to be amazed, to marvel  [miracle]
+opinii - to think, have an opinion
+koni - to know, be acquainted with (persons, places)
 scii - to know (a fact)       [science]
-serĉi - to search for
-skribi - to write
+farbi - to paint (a wall)    [refurbish]
+pentri - to paint (a picture)    [paint]
+bezoni - to need
+flugi - to fly
+kredi - to believe   [credible, incredible, creed]
+esti - to be
+marŝi - to walk
+farti - to fare
 sidi - to sit
 stari - to stand
-tranĉi - to cut
-vendi - to sell    [vendor]
+iri - to go
 veni - to come
-vidi - to see
+dormi - to sleep
+paroli - to speak
+labori - to work
+esperi - to hope
+kuri - to run
 vivi - to live
+brili - to shine
+pendi - to hang
+ŝati - to like
+neĝi - to snow
+pluvi - to rain
+havi - to have
+ami - to love
+fari - to do, to make
 voli - to want
+kisi - to kiss
+kuiri - to cook
+manĝi - to eat
+diri - to say, to tell
+vidi - to see
+skribi - to write
+preĝi - to pray
+povi - to be able (can, if present tense)
+devi - to have (must, if present tense) - I have to do it
+ridi - to laugh
+kanti - to sing
+porti - to carry
+legi - to read
+lerni - to learn
+instrui - to teach
+pensi - to think   [pensive]
+programi - to program (a computer)
+tranĉi - to cut
+kudri - to sew
+fidi - to trust
+morti - to die    [mortal]
+kapti - to capture

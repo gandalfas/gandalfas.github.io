@@ -1,0 +1,27 @@
+# nouns
+
+nokto - night    [nocturnal]
+strato - street
+koro - heart     [coronary]
+herbo - grass
+akvo - water     [aqua]
+biero - beer
+
+
+# adjectives
+
+vera - true   [veracity]
+grava - important
+sufiĉa - sufficient
+
+
+# verbs
+
+doni - to give     [donate]
+preni - to take
+deziri - to desire
+
+# grammatical-endings
+
+-is - past tense (verb)
+

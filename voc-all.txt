@@ -23,7 +23,7 @@
 -u - imperative (command) (verb)
 -uj- - container      florujo - vase
 -ul- - person         belulo - beautiful person
-ĝi - it
+ĝi - it (subject) / it (object of preposition)
 ĝia - its
 ĝin - it (object of verb)
 ĝis - until
@@ -42,7 +42,7 @@
 ĉiel - in every way
 ĉio - everything
 ĉirkaŭ - around
-ĉiu (with no noun) - everyone
+ĉiu (with no noun) - every one
 ĉiu /noun/ - every /noun/
 ĉu - applied to sentence, makes it a yes or no question
 ĉu ne - isn't it, didn't they, etc (append to end of statement)
@@ -69,6 +69,7 @@ apenaŭ - barely
 apud - beside
 arĝenta - silver
 arbo - tree
+atm. (antaŭtagmeze) - a.m. (ante meridiem - Latin, before noon)
 avo - grandfather
 baldaŭ - soon
 baleno - whale      [baleen]
@@ -91,7 +92,7 @@ Bonan vesperon! - Good evening!
 bone - well - as in well done.  I fare well.  (you would think it was "good/ly", but no - 'well' is the adverb form of 'good' in English!)
 Bonvenon! - Welcome.
 bovo - cow
-brako - arm
+brako - arm     [brachial, brachiating]
 brili - to shine
 bruna - brown
 brusto - chest
@@ -112,7 +113,7 @@ diri - to say, to tell
 Diru al mi... - Tell me...
 do - so  (so, I went anyway)
 domo - house
-doni - to give
+doni - to give     [donate]
 dormi - to sleep
 dorso - back       [dorsal fin]
 du - two     [duet]
@@ -151,7 +152,7 @@ frato - brother   [fraternal]
 frua - early
 frunto - forehead
 gambo - leg (thigh to foot)
-genuo - knee
+genuo - knee    [genuflect]
 glaso - glass
 granda - big
 grava - important
@@ -175,7 +176,7 @@ inteligenta - intelligent
 inter - between (if two), among (if more than two)
 io - something
 iri - to go
-iu (with no noun) - someone
+iu (with no noun) - some one
 iu /noun/ - some /noun/
 ja - indeed
 jam - already
@@ -186,7 +187,7 @@ juna - young
 kaj - and
 kanti - to sing
 kanto - song ("a singing")
-kapo - head
+kapo - head     [kapf (German)]
 kapti - to capture
 kara - dear
 kato - cat
@@ -207,7 +208,7 @@ koni - to know, be acquainted with (persons, places)
 kontenta - pleased, content
 kontente - contentedly
 koro - heart     [coronary]
-korpo - body
+korpo - body    [corpus, corporeal, corpse]
 krajono - pencil
 kredi - to believe   [credible, incredible, creed]
 kruro - shank (knee to foot)
@@ -238,7 +239,7 @@ libere - freely
 libro - book
 ligno - wood
 lin - him (object of verb)
-lingvo - language
+lingvo - language     [lingual]
 lito - bed
 ludi - to play
 lumo - light (opposite of dark)   [illuminate, luminescent]
@@ -248,10 +249,11 @@ makzelo - jaw
 mal- - opposite of
 malplej - least (used with el)
 malpli - less (used with ol)
+malsata - hungry
 malsupre - below, down
 manĝi - to eat
 manki - to lack, to be absent, to be missing.  Vi mankas min.  You are missing to me = I miss you.
-mano - hand
+mano - hand     [manual]
 marŝi - to walk
 mardo - Tuesday   [Mars, Mardi Gras]
 mateno - morning
@@ -273,12 +275,12 @@ monato - month
 mondo - world
 mono - money
 morgaŭ - tomorrow
-morti - to die
+morti - to die    [mortal]
 multa - much (for uncountable things like water, salt, sand)
 multaj - many (for countable things like miles, boys, fingers)
 naŭ - nine
 naŭa - ninth
-nazo - nose
+nazo - nose     [nasal]
 ne - no, does not (applied to verbs)
 Nedankinde! - You're welcome!
 nek - nor
@@ -299,13 +301,14 @@ nova - new
 nove - newly
 nu - well  (well, I can't believe he said that)
 nulo - zero
-nun - now (nuna~present, current ("nowish"))
+nun - now
+nuna - present, current ("nowish")
 ok - eight    [octagon]
 oka - eighth
 okcidenta - west
-okulo - eye
+okulo - eye     [oculist]
 ol - than
-oni - one
+oni - one (subject) / one (object of preposition)
 onia - one's
 onin - one (object of verb)
 onklo - uncle
@@ -321,7 +324,7 @@ pensi - to think   [pensive]
 pentri - to paint (a picture)    [paint]
 per - by (by means of)
 piedfingro - toe
-piedo - foot
+piedo - foot    [pedestrian]
 plafono - ceiling
 planko - floor
 plej - most (used with el)
@@ -340,6 +343,7 @@ preskaŭ - almost
 pri - about
 programi - to program (a computer)
 proksima - near
+ptm. (posttagmeze) - p.m. (post meridiem - Latin, after noon)
 pura - clean
 purpura - purple
 ranĉo - ranch
@@ -357,7 +361,7 @@ Saluton! - Hi!
 sama - same
 sana - healthy
 sankta - holy
-sata - sated, full   malsata - hungry
+sata - sated, full
 scii - to know (a fact)       [science]
 se - if
 seĝo - chair
@@ -399,7 +403,7 @@ torto - pie
 tra - through
 tranĉi - to cut
 tre - very
-tri - three
+tri - three   [tricycle, triad]
 tria - third
 unu - one    [unity, union, unify]
 unua - first
@@ -415,8 +419,8 @@ ventro - belly     [ventral fin]
 vera - true   [veracity]
 verda - green
 vespero - evening   [vespers]
-vi - you (plural)
-vi - you (singular)
+vi - you (plural) (subject) / you (object of preposition)
+vi - you (singular) (subject) / you (object of preposition)
 via - your (plural)
 via - your (singular)
 vidi - to see

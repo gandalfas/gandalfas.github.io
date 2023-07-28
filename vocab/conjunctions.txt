@@ -1,11 +1,14 @@
-ankaŭ - also
-aŭ - or
-ĉar - because
-ĝis - until
-kaj - and
-ke - that (joins two clauses)
-kvankam - although
 ol - than
+ĝis - until
+kvankam - although
+ke - that (joins two clauses)
+kaj...kaj - both...and
+aŭ...aŭ - either...or
+nek...nek - neither...nor
+kaj - and
+aŭ - or
 nek - nor
-se - if
 sed - but
+ankaŭ - also
+ĉar - because
+se - if

@@ -14,15 +14,11 @@ ajn - -ever (with ki- words), any (with i- words)
 
 malpli - less (used with ol)
 malplej - least (used with el)
+atm. (antaŭtagmeze) - a.m. (ante meridiem - Latin, before noon)
+ptm. (posttagmeze) - p.m. (post meridiem - Latin, after noon)
 
-
-# pronouns
+# personal-pronouns
 
 ri - he/she (subject) /  him/her (object of preposition)    (gender-neutral third person singular)
 rin - him/her (object of verb)
-
-
-# possessive adjectives
-
 ria - his/her
-

@@ -1,7 +1,6 @@
 # particles
 
 jes - yes
-ne - no
 ĉu - applied to sentence, makes it a yes or no question
 
 # verbs
@@ -17,5 +16,5 @@ ligno - wood
 
 # suffixes
 
--il- - instrument    tranĉilo - knife
--uj- - container    florujo - vase
+-il- - instrument     tranĉilo - knife
+-uj- - container      florujo - vase

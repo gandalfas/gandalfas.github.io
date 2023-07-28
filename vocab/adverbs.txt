@@ -1,25 +1,28 @@
+hodiaŭ - today
+hieraŭ - yesterday
+morgaŭ - tomorrow
+nun - now
+nuna - present, current ("nowish")
 apenaŭ - barely
+tre - very
+jam - already
+supre - above, up
+malsupre - below, down
 baldaŭ - soon
 eĉ - even
-hieraŭ - yesterday
-hodiaŭ - today
 ja - indeed
-jam - already
-malpli - less (used with ol)
-malplej - least (used with el)
-malsupre - below, down
-morgaŭ - tomorrow
-nun - now (nuna~present, current ("nowish"))
+bele - beautifully
+feliĉe - happily
+forte - strongly
+nove - newly
+kontente - contentedly
+libere - freely
+bone - well - as in well done.  I fare well.  (you would think it was "good/ly", but no - 'well' is the adverb form of 'good' in English!)
 pli - more (used with ol)
 plej - most (used with el)
 preskaŭ - almost
-supre - above, up
-tre - very
-
-bele - beautifully
-bone - well - as in well done.  I fare well.  (you would think it was "good/ly", but no - 'well' is the adverb form of 'good' in English!)
-feliĉe - happily
-forte - strongly
-kontente - contentedly
-libere - freely
-nove - newly
+malpli - less (used with ol)
+malplej - least (used with el)
+atm. (antaŭtagmeze) - a.m. (ante meridiem - Latin, before noon)
+ptm. (posttagmeze) - p.m. (post meridiem - Latin, after noon)
+eble - possibly, perhaps

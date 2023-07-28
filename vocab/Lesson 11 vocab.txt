@@ -3,15 +3,18 @@
 ĉerizo - cherry
 torto - pie
 tago - day
-nepo - grandson
 misio - mission
 mondo - world
 momento - moment
 kanto - song ("a singing")
 
+# nouns-family
+
+nepo - grandson   [nepotism]
+
 # adjectives
 
-aŭdaca - bold  (audacious)
+aŭdaca - bold    [audacious]
 ĝusta - right, correct
 stranĝa - strange
 
@@ -30,7 +33,16 @@ io - something
 ĉio - everything
 nenio - nothing
 
+iu /noun/ - some /noun/
+ĉiu /noun/ - every /noun/
+neniu /noun/ - no /noun/
+
+iu (with no noun) - some one
+ĉiu (with no noun) - every one
+neniu (with no noun) - no one
+
+
 # suffixes
 
--iĉ- - masculine    boviĉo - bull
--ebl- - -able       legebla - legible
+-iĉ- - masculine      boviĉo - bull
+-ebl- - possible, -able      legebla - legible

@@ -21,7 +21,7 @@ lumo - light (opposite of dark)   [illuminate, luminescent]
 
 opinii - to think, have an opinion
 koni - to know, be acquainted with (persons, places)
-scii - to know (facts)       [science]
+scii - to know (a fact)       [science]
 farbi - to paint (a wall)    [refurbish]
 pentri - to paint (a picture)    [paint]
 
@@ -29,6 +29,8 @@ pentri - to paint (a picture)    [paint]
 # adjectives
 
 kara - dear
+
+# adjectives-numbers
 
 unua - first
 dua - second
@@ -52,7 +54,7 @@ nu - well  (well, I can't believe he said that)
 
 # pronouns
 
-ambaŭ - both    [ambidexterous, ambiguous, ambivalent]
+ambaŭ - both     [ambidexterous, ambiguous, ambivalent]
 
 
 # conjunctions
@@ -62,7 +64,7 @@ ke - that (joins two clauses)
 
 # particles
 
-ĉu ne - don't you?  isn't it?  didn't they?  right?
+ĉu ne - isn't it, didn't they, etc (append to end of statement)
 
 
 # prepositions

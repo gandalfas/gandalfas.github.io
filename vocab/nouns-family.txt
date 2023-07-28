@@ -1,18 +1,18 @@
-avo - grandfather
+familio - family
+nepo - grandson   [nepotism]
+onklo - uncle
+nevo - nephew
+kuzo - cousin
+infano - child
 bebo - baby
 edzo - husband
-familio - family
-filo - son
-frato - brother   [fraternal]
-Fraŭlo - Mr. (Bachelor)
-Fraŭlino - Miss
-infano - child
-knabo - boy
-kuzo - cousin
-nepo - grandson   [nepotism]
-nevo - nephew
-onklo - uncle
-patro - father
 Sinjoro - Mr.
 Sinjorino - Mrs.
+Fraŭlino - Miss
+Fraŭlo - Mr. (Bachelor)
 viro - man      [virile]
+frato - brother   [fraternal]
+filo - son
+patro - father
+knabo - boy
+avo - grandfather

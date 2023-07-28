@@ -1,58 +1,62 @@
-akvo - water     [aqua]
-amiko - friend
-arbo - tree
-aŭtomobilo - automobile
-bano - bath
-biero - beer
-bildo - picture
-ĉerizo - cherry
-dento - tooth
-domo - house
-fajro - fire
-fenestro - window
-floro - flower
-glaso - glass
-homo - person
 jaro - year
-herbo - grass
+ĉerizo - cherry
+torto - pie
+tago - day
+misio - mission
+mondo - world
+momento - moment
 kanto - song ("a singing")
+nokto - night    [nocturnal]
+strato - street
 koro - heart     [coronary]
-krajono - pencil
-lampo - lamp
-libro - book
-ligno - wood
-lingvo - language
-lito - bed
-lumo - light (opposite of dark)   [illuminate, luminescent]
-luno - moon      [lunar]
+herbo - grass
+akvo - water     [aqua]
+biero - beer
 mateno - morning
 mesaĝo - message
+vespero - evening   [vespers]
 mezo - middle
-misio - mission
-momento - moment
-monato - month
-mondo - world
-mono - money
-nokto - night    [nocturnal]
-plafono - ceiling
-planko - floor
-plumo - pen
-pomo - apple
 posttagmezo - afternoon
+revuo - magazine
+monato - month
+semajno - week
+lumo - light (opposite of dark)   [illuminate, luminescent]
+fajro - fire
 ranĉo - ranch
 rano - frog
-revuo - magazine
-seĝo - chair
-semajno - week
-stelo - star     [stellar]
-strato - street
-studento - student
-suno - sun
-tablo - table
-tago - day
+bildo - picture
+luno - moon      [lunar]
 tero - land or Earth     [subterranean]
-torto - pie
-urbo - city
+stelo - star     [stellar]
 vento - wind     [vent]
-vespero - evening   [vespers]
+domo - house
+arbo - tree
+amiko - friend
+libro - book
+paco - peace
+ĉemizo - shirt
+pantalono - pants
+lago - lake
+tablo - table
+fenestro - window
+seĝo - chair
+planko - floor
+plafono - ceiling
+bano - bath
+lampo - lamp
+lito - bed
+glaso - glass
+plumo - pen
+floro - flower
+suno - sun
+homo - person
+lingvo - language     [lingual]
+pomo - apple
+studento - student
+dento - tooth
+urbo - city
+mono - money
+krajono - pencil
+ligno - wood
+aŭtomobilo - automobile
 vorto - word

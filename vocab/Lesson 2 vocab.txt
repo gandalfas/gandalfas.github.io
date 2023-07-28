@@ -1,0 +1,76 @@
+# phrases
+
+Saluton! - Hi!
+Kiel vi fartas? - How are you?
+Mi fartas bone. - I am well.
+Bonvenon! - Welcome.
+
+# personal-pronouns
+
+mi - I (subject) / me (object of preposition)
+vi - you (singular) (subject) / you (object of preposition)
+li - he (subject) / him (object of preposition)
+ŝi - she (subject) / her (object of preposition)
+ĝi - it (subject) / it (object of preposition)
+ni - we (subject) / us (object of preposition)
+vi - you (plural) (subject) / you (object of preposition)
+ili - they (subject) / them (object of preposition)
+oni - one (subject) / one (object of preposition)
+
+# verbs
+
+esti - to be
+marŝi - to walk
+farti - to fare
+sidi - to sit
+stari - to stand
+iri - to go
+veni - to come
+dormi - to sleep
+
+paroli - to speak
+labori - to work
+esperi - to hope
+kuri - to run
+vivi - to live
+brili - to shine
+
+# nouns-family
+
+viro - man      [virile]
+frato - brother   [fraternal]
+filo - son
+patro - father
+knabo - boy
+avo - grandfather
+
+# nouns
+
+domo - house
+arbo - tree
+amiko - friend
+libro - book
+
+# nouns-animals
+
+kato - cat
+hundo - dog
+birdo - bird
+
+# adjectives
+
+bela - beautiful
+bona - good
+juna - young
+feliĉa - happy
+
+# grammatical-endings
+
+-i - infinitive (verb)
+-as - present tense (verb)
+-o - noun
+
+
+# suffixes
+
+-in- - feminine       virino - woman

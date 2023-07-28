@@ -1,7 +1,7 @@
 # phrases
 
 Dankon! - Thank you!
-Nedankinde! - You're welcome!
+Nedankinde! - You're welcome!  (not worthy of thanks)
 
 
 # prepositions
@@ -11,7 +11,7 @@ al - to
 de - from, since, by, of (possession)
 
 
-# verbs (transitive - take an object)
+# verbs
 
 havi - to have
 ami - to love
@@ -26,15 +26,16 @@ vidi - to see
 
 # correlatives
 
-kiu *noun* - which *noun*, which *noun* specifically
-tiu *noun* - that *noun*, that *noun* specifically
+kiu /noun/ - which /noun/, which /noun/ specifically
+tiu /noun/ - that /noun/, that /noun/ specifically
 
-kiu - which one, which one specifically (or who, if you know it's a person)
-tiu - that one, that one specifically
+kiu (with no noun) - which one, which one specifically (or who, if you know it's a person)
+tiu (with no noun) - that one, that one specifically
 
 # adjectives
 
-multa - much
+multa - much (for uncountable things like water, salt, sand)
+multaj - many (for countable things like miles, boys, fingers)
 rapida - fast
 klara - clear
 stulta - stupid
@@ -63,31 +64,33 @@ se - if
 
 # nouns
 
-lingvo - language
+lingvo - language     [lingual]
 pomo - apple
 
-kapo - head
-okulo - eye
+# nouns-body-parts
+
+kapo - head     [kapf (German)]
+okulo - eye     [oculist]
 buŝo - mouth
 orelo - ear
-nazo - nose
-korpo - body
+nazo - nose     [nasal]
+korpo - body    [corpus, corporeal, corpse]
 vango - cheek
 mentono - chin
 makzelo - jaw
 frunto - forehead
 kolo - neck
 ŝultro - shoulder
-brako - arm
+brako - arm     [brachial, brachiating]
 kubuto - elbow
-mano - hand
+mano - hand     [manual]
 fingro - finger
 gambo - leg (thigh to foot)
 kruro - shank (knee to foot)
-genuo - knee
-piedo - foot
+genuo - knee    [genuflect]
+piedo - foot    [pedestrian]
 piedfingro - toe
 
 # suffixes
 
--ej- - place    hundejo - doghouse
+-ej- - place          hundejo - doghouse

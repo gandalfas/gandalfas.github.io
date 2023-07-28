@@ -1,36 +1,31 @@
-kio - what (thing), in a general way
-tio - that (thing), in a general way
-ĉi tio - this (thing), in a general way
+kie - where (which place)
+tie - there (that place)
 io - something
 ĉio - everything
 nenio - nothing
-
-kiu /noun/ - which /noun/, which /noun/ specifically
-tiu /noun/ - that /noun/, that /noun/ specifically
-ĉi tiu /noun/ - this /noun/, this /noun/ specifically
 iu /noun/ - some /noun/
 ĉiu /noun/ - every /noun/
 neniu /noun/ - no /noun/
-
-kiu (with no noun) - which one, which one specifically (or who, if you know it's a person)
-tiu (with no noun) - that one, that one specifically
-ĉi tiu (with no noun) - this one, this one specifically
-iu (with no noun) - someone
-ĉiu (with no noun) - everyone
+iu (with no noun) - some one
+ĉiu (with no noun) - every one
 neniu (with no noun) - no one
-
-kie - where (which place)
-tie - there (that place)
+ĉi tio - this (thing), in a general way
+ĉi tiu /noun/ - this /noun/, this /noun/ specifically
+ĉi tiu (with no noun) - this one, this one specifically
 ĉi tie - here (this place)
 ie - somewhere
 ĉie - everywhere
 nenie - nowhere
-
 kiel - in what way, how
 tiel - in that way, so
 ĉi tiel - in this way
 iel - in some way, somehow
 ĉiel - in every way
 neniel - in no way
-
 ajn - -ever (with ki- words), any (with i- words)
+kio - what (thing), in a general way
+tio - that (thing), in a general way
+kiu /noun/ - which /noun/, which /noun/ specifically
+tiu /noun/ - that /noun/, that /noun/ specifically
+kiu (with no noun) - which one, which one specifically (or who, if you know it's a person)
+tiu (with no noun) - that one, that one specifically

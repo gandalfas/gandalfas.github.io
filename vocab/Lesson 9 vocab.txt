@@ -1,4 +1,4 @@
-# possessive adjectives
+# personal-pronouns
 
 mia - my
 via - your (singular)
@@ -11,15 +11,20 @@ ilia  - their
 onia - one's
 
 
+# grammatical-endings
+
+-u - imperative (command) (verb)
+
+
 # suffixes
 
--ind- - worthy of    laŭdinda - praiseworthy
--ig- - to cause    mortigi - to kill
+-ind- - worthy of     laŭdinda - praiseworthy
+-ig- - to cause       mortigi - to kill
 
 # verbs
 
 fidi - to trust
-morti - to die
+morti - to die    [mortal]
 kapti - to capture
 
 # nouns

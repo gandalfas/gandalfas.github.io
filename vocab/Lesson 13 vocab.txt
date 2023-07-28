@@ -6,7 +6,7 @@ mesaĝo - message
 
 # verbs
 
-vendi - to sell    (vendor)
+vendi - to sell    [vendor]
 pagi - to pay
 kuŝi - to lie down
 fali - to fall

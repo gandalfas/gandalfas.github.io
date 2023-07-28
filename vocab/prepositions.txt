@@ -1,22 +1,22 @@
-al - to
-apud - beside
-antaŭ - before   [ante meridiem "AM"]
-ĉe - at
-ĉirkaŭ - around
-de - from, since, by, of (possession)
-ekster - outside
-el - out of
-dum - during (while, as a conjunction)
-en - in
 inter - between (if two), among (if more than two)
-je - on (date), at (time), -or- a non-specific preposition
-kun - with
-per - by (by means of)
-por - for
-post - after, behind    [post meridiem "PM"]
-pri - about
-sen - without
-sub - under, below
-super - over, above
 sur - on
+al - to
+de - from, since, by, of (possession)
+ĉe - at
+en - in
+pri - about
+por - for
+sub - under, below
+dum - during (while, as a conjunction)
+kun - with
+sen - without
+post - after, behind    [post meridiem "PM"]
+antaŭ - before   [ante meridiem "AM"]
+super - over, above
+apud - beside
 tra - through
+ĉirkaŭ - around
+el - out of
+ekster - outside
+je - on (date), at (time), -or- a non-specific preposition
+per - by (by means of)

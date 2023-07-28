@@ -1,24 +1,24 @@
-brako - arm
 brusto - chest
-buŝo - mouth
 dorso - back       [dorsal fin]
-fingro - finger
-frunto - forehead
-gambo - leg (thigh to foot)
-genuo - knee
-kapo - head
-kolo - neck
-korpo - body
-kruro - shank (knee to foot)
-kubuto - elbow
-makzelo - jaw
-mano - hand
-mentono - chin
-nazo - nose
-okulo - eye
-orelo - ear
-piedo - foot
-piedfingro - toe
-ŝultro - shoulder
-vango - cheek
 ventro - belly     [ventral fin]
+kapo - head     [kapf (German)]
+okulo - eye     [oculist]
+buŝo - mouth
+orelo - ear
+nazo - nose     [nasal]
+korpo - body    [corpus, corporeal, corpse]
+vango - cheek
+mentono - chin
+makzelo - jaw
+frunto - forehead
+kolo - neck
+ŝultro - shoulder
+brako - arm     [brachial, brachiating]
+kubuto - elbow
+mano - hand     [manual]
+fingro - finger
+gambo - leg (thigh to foot)
+kruro - shank (knee to foot)
+genuo - knee    [genuflect]
+piedo - foot    [pedestrian]
+piedfingro - toe

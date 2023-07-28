@@ -1,16 +1,16 @@
 # numbers
 
 nulo - zero
-unu - one
-du - two
-tri - three
-kvar - four
-kvin - five
+unu - one    [unity, union, unify]
+du - two     [duet]
+tri - three   [tricycle, triad]
+kvar - four   [quartet]
+kvin - five   [quintuplet]
 ses - six
 sep - seven
-ok - eight
+ok - eight    [octagon]
 naŭ - nine
-dek - ten
+dek - ten       [decimal]
 cent - hundred
 mil - thousand
 
@@ -18,7 +18,7 @@ mil - thousand
 
 la - the
 
-# colors
+# adjectives-colors
 
 ruĝa - red
 blua - blue

@@ -13,6 +13,9 @@ plumo - pen
 floro - flower
 suno - sun
 homo - person
+
+# nouns-animals
+
 bovo - cow
 
 # adjectives
@@ -35,10 +38,17 @@ proksima - near
 kio - what (thing), in a general way
 tio - that (thing), in a general way
 
+
+# grammatical-endings
+
+-a - adjective
+-j - plural
+
+
 # prefixes
 
 mal- - opposite of
 
 # suffixes
 
--ar- - collection    birdaro - flock
+-ar- - collection     birdaro - flock

@@ -1,7 +1,7 @@
 nulo - zero
 unu - one    [unity, union, unify]
 du - two     [duet]
-tri - three
+tri - three   [tricycle, triad]
 kvar - four   [quartet]
 kvin - five   [quintuplet]
 ses - six

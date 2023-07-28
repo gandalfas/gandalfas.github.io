@@ -4,6 +4,7 @@ hodiaŭ - today
 hieraŭ - yesterday
 morgaŭ - tomorrow
 nun - now
+nuna - present, current ("nowish")
 apenaŭ - barely
 tre - very
 jam - already
@@ -22,23 +23,34 @@ bone - well - as in well done.  I fare well.  (you would think it was "good/ly",
 
 # correlatives
 
-kie - where
-tie - there
+kie - where (which place)
+tie - there (that place)
 
-# nouns
+# nouns-animals
 
 ŝafo - sheep
 leono - lion
 urso - bear
-ĉevalo - horse
+ĉevalo - horse   [cavalier]
+
+# nouns
+
 jaro - year
+
+# nouns-family
+
 familio - family
 
 # adjectives
 
-kvieta = quiet
+kvieta - quiet
+
+# grammatical-endings
+
+-e - adverb
+
 
 # suffixes
 
--an- - member of    urbano - member of city, citizen
--ido - offspring    bovido - calf
+-an- - member of      urbano - member of city, citizen
+-ido - offspring      bovido - calf

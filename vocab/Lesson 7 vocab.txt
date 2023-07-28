@@ -1,6 +1,6 @@
 # particles
 
-ne - does not (applied to verbs)
+ne - no, does not (applied to verbs)
 
 # nouns
 
@@ -13,5 +13,5 @@ programi - to program (a computer)
 
 # suffixes
 
--ul- - person    belulo - beautiful person
+-ul- - person         belulo - beautiful person
 -ist- - profession of person    instruisto - teacher

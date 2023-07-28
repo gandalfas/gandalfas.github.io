@@ -1,6 +1,6 @@
 # nouns
 
-vespero - evening   (vespers)
+vespero - evening   [vespers]
 
 
 # conjunctions
@@ -15,12 +15,12 @@ kvankam - although
 -aĉ- - contemptible, wretched     domaĉo - shack
 
 
-# colors
+# adjectives-colors
 
 viola - violet
 
 
-# family
+# nouns-family
 
 onklo - uncle
 nevo - nephew

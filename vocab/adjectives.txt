@@ -1,41 +1,45 @@
-alia - other
+kvieta - quiet
 aŭdaca - bold    [audacious]
+ĝusta - right, correct
+stranĝa - strange
+vera - true   [veracity]
+grava - important
+sufiĉa - sufficient
+kara - dear
+inteligenta - intelligent
 bela - beautiful
 bona - good
-dura - hard
-feliĉa - happy
-forta - strong
-frua - early
-granda - big
-grava - important
-ĝusta - right, correct
-inteligenta - intelligent
 juna - young
-kara - dear
-kelkaj - few, some
-klara - clear
-kontenta - pleased, content
-kvieta - quiet
-libera - free
-larĝa - wide
-multa - much (for uncountable things like water, salt, sand)
-multaj - many (for countable things like miles, boys, fingers)
-norda - north
+feliĉa - happy
+tuta - total, entire, whole
+ebla - possible
+simpatia - likeable
+seka - dry
+varma - hot
+granda - big
 nova - new
-okcidenta - west
-orienta - east
-plena - full
-proksima - near
+larĝa - wide
+kontenta - pleased, content
+libera - free
 pura - clean
-rapida - fast
-sama - same
+forta - strong
 sana - healthy
 sankta - holy
-sata - sated, full   malsata - hungry
-seka - dry
+proksima - near
+multa - much (for uncountable things like water, salt, sand)
+multaj - many (for countable things like miles, boys, fingers)
+rapida - fast
+klara - clear
 stulta - stupid
+alia - other
+orienta - east
+okcidenta - west
+norda - north
 suda - south
-sufiĉa - sufficient
-stranĝa - strange
-varma - hot
-vera - true   [veracity]
+frua - early
+sama - same
+dura - hard
+plena - full
+sata - sated, full
+malsata - hungry
+kelkaj - few, some

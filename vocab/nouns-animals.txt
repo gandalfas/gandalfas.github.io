@@ -1,11 +1,11 @@
+ŝafo - sheep
+leono - lion
+urso - bear
+ĉevalo - horse   [cavalier]
 baleno - whale      [baleen]
 besto - animal      [beast]
+cervo - deer
+kato - cat
+hundo - dog
 birdo - bird
 bovo - cow
-cervo - deer
-ĉevalo - horse   [cavalier]
-hundo - dog
-kato - cat
-leono - lion
-ŝafo - sheep
-urso - bear

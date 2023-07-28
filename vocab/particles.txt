@@ -1,4 +1,4 @@
-ĉu - applied to sentence, makes it a yes or no question
-jes - yes
-ne - no, does not (applied to verbs)
 ĉu ne - isn't it, didn't they, etc (append to end of statement)
+ne - no, does not (applied to verbs)
+jes - yes
+ĉu - applied to sentence, makes it a yes or no question
