@@ -1,7 +1,7 @@
 # phrases
 
 Diru al mi... - Tell me...
-Mi petas - Please
+Mi petas - Please (I petition, I request)
 Bonan matenon! - Good morning!
 Bonan vesperon! - Good evening!
 Bonan tagon! - Good day!
@@ -24,6 +24,7 @@ koni - to know, be acquainted with (persons, places)
 scii - to know (a fact)       [science]
 farbi - to paint (a wall)    [refurbish]
 pentri - to paint (a picture)    [paint]
+peti - to petition, to request
 
 
 # adjectives

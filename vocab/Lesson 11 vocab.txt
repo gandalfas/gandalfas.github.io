@@ -20,7 +20,7 @@ stranĝa - strange
 
 # verbs
 
-demandi - to ask
+demandi - to ask (a question)
 halti - to stop
 flegi - to nurse (a sick person)
 serĉi - to search for
