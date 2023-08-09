@@ -1,4 +1,4 @@
-demandi - to ask
+demandi - to ask (a question)
 halti - to stop
 flegi - to nurse (a sick person)
 serĉi - to search for
@@ -23,6 +23,7 @@ koni - to know, be acquainted with (persons, places)
 scii - to know (a fact)       [science]
 farbi - to paint (a wall)    [refurbish]
 pentri - to paint (a picture)    [paint]
+peti - to petition, to request
 bezoni - to need
 flugi - to fly
 kredi - to believe   [credible, incredible, creed]
@@ -42,8 +43,21 @@ vivi - to live
 brili - to shine
 pendi - to hang
 ŝati - to like
-neĝi - to snow
-pluvi - to rain
+ŝajni - to seem
+meti - to put
+abomeni - to loathe
+senti - to feel
+tiri - to pull or draw
+movi - to move (something) - transitive
+moviĝi - to move (yourself) - intransitive
+puŝi - to push
+nomi - to name
+zumi - to buzz
+uzi - to use
+nutri - to feed
+haki - to chop
+Estas... (no subject) - it is, there is
+nei - to 'no', to deny  (derived from 'ne')
 havi - to have
 ami - to love
 fari - to do, to make

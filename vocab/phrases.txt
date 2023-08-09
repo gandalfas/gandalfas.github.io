@@ -1,5 +1,5 @@
 Diru al mi... - Tell me...
-Mi petas - Please
+Mi petas - Please (I petition, I request)
 Bonan matenon! - Good morning!
 Bonan vesperon! - Good evening!
 Bonan tagon! - Good day!
@@ -11,7 +11,6 @@ Bonvenon! - Welcome.
 Bonan posttagmezon! - Good afternoon!
 He - Hi
 Ĝis revido! - Goodbye!  (ĝis - until + revido - the re-seeing)
-mi petas - please (I ask)
 jen - here is, behold
 Dankon! - Thank you!
 Nedankinde! - You're welcome!  (not worthy of thanks)

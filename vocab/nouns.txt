@@ -37,6 +37,11 @@ paco - peace
 ĉemizo - shirt
 pantalono - pants
 lago - lake
+pluvo - rain   (whence: pluvi - to rain)
+neĝo - snow   (whence: neĝi - to snow)
+reĝo - king   (whence: reĝino - queen)
+odoro - odor
+boato - boat
 tablo - table
 fenestro - window
 seĝo - chair

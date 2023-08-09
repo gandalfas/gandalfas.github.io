@@ -4,14 +4,14 @@ paco - peace
 ĉemizo - shirt
 pantalono - pants
 lago - lake
+pluvo - rain   (whence: pluvi - to rain)
+neĝo - snow   (whence: neĝi - to snow)
 
 
 # verbs
 
 pendi - to hang
 ŝati - to like
-neĝi - to snow
-pluvi - to rain
 
 
 # adjectives

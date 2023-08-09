@@ -10,8 +10,8 @@ Bonan nokton! - Good night!
 
 # adverbs
 
-pli - more (used with ol)
-plej - most (used with el)
+pli - more (used with ol)   pli bela (ol) - more beautiful (than)
+plej - most (used with el)   la plej bela (el) - the most beautiful (out of)
 
 # nouns
 
