@@ -21,7 +21,7 @@ bovo - cow
 # adjectives
 
 seka - dry
-varma - hot
+varma - warm
 granda - big
 nova - new
 larĝa - wide

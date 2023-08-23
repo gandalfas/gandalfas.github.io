@@ -448,7 +448,7 @@ urbo - city
 urso - bear
 uzi - to use
 vango - cheek
-varma - hot
+varma - warm
 vendi - to sell    [vendor]
 vendredo - Friday    [Venus]
 veni - to come
