@@ -91,6 +91,7 @@ bildo - picture
 birdo - bird
 blanka - white
 blua - blue
+bo- - in-law    bopatro - father-in-law
 boato - boat
 bona - good
 Bonan matenon! - Good morning!
@@ -120,6 +121,7 @@ deziri - to desire
 dimanĉo - Sunday   [dominica = Day of the Lord]
 diri - to say, to tell
 Diru al mi... - Tell me...
+dis- - separation   disdoni - to distribute (doni = to give)
 do - so  (so, I went anyway)
 domo - house
 doni - to give     [donate]
@@ -133,6 +135,8 @@ eĉ - even
 ebla - possible
 eble - possibly, perhaps
 edzo - husband
+ek- - beginning or suddenness    ekvidi - glimpse
+eks- - ex-, former    eksedzo - ex-husband
 ekster - outside
 el - out of
 en - in
@@ -164,6 +168,7 @@ frato - brother   [fraternal]
 frua - early
 frunto - forehead
 gambo - leg (thigh to foot)
+ge- - both sexes    gefratoj - siblings
 genuo - knee    [genuflect]
 glaso - glass
 granda - big
@@ -263,7 +268,7 @@ lumo - light (opposite of dark)   [illuminate, luminescent]
 lundo - Monday   [lunar, lunatic]
 luno - moon      [lunar]
 makzelo - jaw
-mal- - opposite of
+mal- - opposite    malfeliĉa - unhappy
 malplej - least (used with el)
 malpli - less (used with ol)
 malsata - hungry
@@ -287,6 +292,7 @@ mil - thousand
 mila - thousandth
 min - me (object of verb)
 miri - to be amazed, to marvel  [miracle]
+mis- - wrongly    miskompreni - to misunderstand
 misio - mission
 momento - moment
 monato - month
@@ -368,6 +374,7 @@ porti - to carry
 post - after, behind    [post meridiem "PM"]
 posttagmezo - afternoon
 povi - to be able (can, if present tense)
+pra- - ancient (beyond old)    praavo - great grandfather
 preĝi - to pray
 preni - to take
 preskaŭ - almost
@@ -381,6 +388,7 @@ purpura - purple
 ranĉo - ranch
 rano - frog
 rapida - fast
+re- - repeat    reiri - to return
 reĝo - king   (whence: reĝino - queen)
 revuo - magazine
 ri - he/she (subject) /  him/her (object of preposition)    (gender-neutral third person singular)
