@@ -1,5 +1,5 @@
-kie - where (which place)
-tie - there (that place)
+kie - where (at which place)
+tie - there (at that place)
 io - something
 ĉio - everything
 nenio - nothing
@@ -13,9 +13,9 @@ neniu (with no noun) - no one
 ĉi tiu /noun/ - this /noun/, this /noun/ specifically
 ĉi tiu (with no noun) - this one, this one specifically
 ĉi tie - here (this place)
-ie - somewhere
-ĉie - everywhere
-nenie - nowhere
+ie - somewhere (at some place)
+ĉie - everywhere (at every place)
+nenie - nowhere (at no place)
 kiel - in what way, how
 tiel - in that way, so
 ĉi tiel - in this way

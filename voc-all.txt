@@ -41,7 +41,7 @@
 ĉi tio - this (thing), in a general way
 ĉi tiu (with no noun) - this one, this one specifically
 ĉi tiu /noun/ - this /noun/, this /noun/ specifically
-ĉie - everywhere
+ĉie - everywhere (at every place)
 ĉiel - in every way
 ĉio - everything
 ĉirkaŭ - around
@@ -179,7 +179,7 @@ hieraŭ - yesterday
 hodiaŭ - today
 homo - person
 hundo - dog
-ie - somewhere
+ie - somewhere (at some place)
 iel - in some way, somehow
 ili - they (subject) / them (object of preposition)
 ilia  - their
@@ -209,7 +209,7 @@ kara - dear
 kato - cat
 ke - that (joins two clauses)
 kelkaj - few, some
-kie - where (which place)
+kie - where (at which place)
 kiel - in what way, how
 Kiel vi fartas? - How are you?
 kio - what (thing), in a general way
@@ -307,7 +307,7 @@ Nedankinde! - You're welcome!  (not worthy of thanks)
 nei - to 'no', to deny  (derived from 'ne')
 nek - nor
 nek...nek - neither...nor
-nenie - nowhere
+nenie - nowhere (at no place)
 neniel - in no way
 nenio - nothing
 neniu (with no noun) - no one
@@ -429,7 +429,7 @@ sur - on
 tablo - table
 tago - day
 tero - land or Earth     [subterranean]
-tie - there (that place)
+tie - there (at that place)
 tiel - in that way, so
 tio - that (thing), in a general way
 tiri - to pull or draw

@@ -24,6 +24,6 @@ miri - to be amazed, to marvel  [miracle]
 ĉi tiu (with no noun) - this one, this one specifically
 ĉi tie - here (this place)
 
-ie - somewhere
-ĉie - everywhere
-nenie - nowhere
+ie - somewhere (at some place)
+ĉie - everywhere (at every place)
+nenie - nowhere (at no place)
