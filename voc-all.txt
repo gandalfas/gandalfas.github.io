@@ -1,21 +1,31 @@
 -a - adjective
+-aĵ- - concrete thing of abstraction    nutraĵo - food ("feedage")
 -aĉ- - contemptible, wretched     domaĉo - shack
+-ad- - prolonged or habitual    kurado - running (is fun)
 -an- - member of      urbano - member of city, citizen
 -ar- - collection     birdaro - flock
 -as - present tense (verb)
 -e - adverb
 -ebl- - possible, -able      legebla - legible
+-ec- - -ness    boneco - goodness
 -eg- - much larger    virego - giant
 -ej- - place          hundejo - doghouse
+-em- - tendency    parolema - talkative
+-end- - obligation
+-er- - small particle    panero - crumb, akvero - drop
+-estr- - leader    domestro - head of house
 -et- - much smaller   dometo - cottage
 -i - infinitive (verb)
+-iĝ- - to become    vivĝi - to come alive
 -iĉ- - masculine      boviĉo - bull
 -ido - offspring      bovido - calf
 -ig- - to cause       mortigi - to kill
 -il- - instrument     tranĉilo - knife
 -in- - feminine       virino - woman
 -ind- - worthy of     laŭdinda - praiseworthy
+-ing- - holder    plumingo - penholder
 -is - past tense (verb)
+-ism- - system, theory    alkoholismo
 -ist- - profession of person    instruisto - teacher
 -j - plural
 -n - object
@@ -24,6 +34,7 @@
 -u - imperative (command) (verb)
 -uj- - container      florujo - vase
 -ul- - person         belulo - beautiful person
+-um- - to do something unspecified    plenumi - to fulfill
 Ĝis revido! - Goodbye!  (ĝis - until + revido - the re-seeing)
 ĝi - it (subject) / it (object of preposition)
 ĝia - its
@@ -136,7 +147,7 @@ ebla - possible
 eble - possibly, perhaps
 edzo - husband
 ek- - beginning or suddenness    ekvidi - glimpse
-eks- - ex-, former    eksedzo - ex-husband
+eks- - ex-, former    exedzo - ex-husband
 ekster - outside
 el - out of
 en - in
@@ -212,7 +223,7 @@ kapo - head     [kapf (German)]
 kapti - to capture
 kara - dear
 kato - cat
-ke - that (joins two clauses)
+ke - that (joins two clauses - I know that the cup is red. the man that went to work is coming)
 kelkaj - few, some
 kie - where (at which place)
 kiel - in what way, how
@@ -268,7 +279,7 @@ lumo - light (opposite of dark)   [illuminate, luminescent]
 lundo - Monday   [lunar, lunatic]
 luno - moon      [lunar]
 makzelo - jaw
-mal- - opposite    malfeliĉa - unhappy
+mal- - opposite of    malfeliĉa - unhappy
 malplej - least (used with el)
 malpli - less (used with ol)
 malsata - hungry

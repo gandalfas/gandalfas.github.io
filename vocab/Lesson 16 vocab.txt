@@ -60,7 +60,7 @@ ambaŭ - both     [ambidexterous, ambiguous, ambivalent]
 
 # conjunctions
 
-ke - that (joins two clauses)
+ke - that (joins two clauses - I know that the cup is red. the man that went to work is coming)
 
 
 # particles

@@ -1,3 +1,5 @@
+# suffixes
+
 -ec- - -ness    boneco - goodness
 -ing- - holder    plumingo - penholder
 -estr- - leader    domestro - head of house
