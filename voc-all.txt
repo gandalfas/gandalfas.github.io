@@ -1,5 +1,5 @@
 -a - adjective
--aĵ- - concrete thing of abstraction    nutraĵo - food ("feedage")
+-aĵ- - thing produced from an action    likaĵo - leakage, sendaĵo - transmission
 -aĉ- - contemptible, wretched     domaĉo - shack
 -ad- - prolonged or habitual    kurado - running (is fun)
 -an- - member of      urbano - member of city, citizen
@@ -11,12 +11,12 @@
 -eg- - much larger    virego - giant
 -ej- - place          hundejo - doghouse
 -em- - tendency    parolema - talkative
--end- - obligation
+-end- - obligation   pagenda - obligated to pay
 -er- - small particle    panero - crumb, akvero - drop
 -estr- - leader    domestro - head of house
 -et- - much smaller   dometo - cottage
 -i - infinitive (verb)
--iĝ- - to become    vivĝi - to come alive
+-iĝ- - to become    viviĝi - to come alive
 -iĉ- - masculine      boviĉo - bull
 -ido - offspring      bovido - calf
 -ig- - to cause       mortigi - to kill
@@ -59,6 +59,7 @@
 ĉiu (with no noun) - every one
 ĉiu /noun/ - every /noun/
 ĉu - applied to sentence, makes it a yes or no question
+ĉu - whether (in middle of sentence)
 ĉu ne - isn't it, didn't they, etc (append to end of statement)
 ŝafo - sheep
 ŝajni - to seem
@@ -81,6 +82,7 @@ alia - other
 ambaŭ - both     [ambidexterous, ambiguous, ambivalent]
 ami - to love
 amiko - friend
+amuzo - fun
 ankaŭ - also
 antaŭ - before   [ante meridiem "AM"]
 apenaŭ - barely
@@ -171,6 +173,7 @@ flava - yellow
 flegi - to nurse (a sick person)
 floro - flower
 flugi - to fly
+forko - fork
 forta - strong
 forte - strongly
 Fraŭlino - Miss
@@ -189,9 +192,11 @@ haki - to chop
 halti - to stop
 havi - to have
 He - Hi
+hejmo - home
 helpi - to help
 herbo - grass
 hieraŭ - yesterday
+ho - oh
 hodiaŭ - today
 homo - person
 hundo - dog
@@ -217,6 +222,7 @@ jes - yes
 juna - young
 kaj - and
 kaj...kaj - both...and
+kanapo - couch
 kanti - to sing
 kanto - song ("a singing")
 kapo - head     [kapf (German)]
@@ -248,6 +254,7 @@ kuŝi - to lie down
 kubuto - elbow
 kudri - to sew
 kuiri - to cook
+kulero - spoon
 kun - with
 kuri - to run
 kuzo - cousin
@@ -290,6 +297,7 @@ mano - hand     [manual]
 marŝi - to walk
 mardo - Tuesday   [Mars, Mardi Gras]
 mateno - morning
+meblo - piece of furniture
 mentono - chin
 merkredo - Wednesday   [Mercury]
 mesaĝo - message
@@ -315,6 +323,7 @@ movi - to move (something) - transitive
 moviĝi - to move (yourself) - intransitive
 multa - much (for uncountable things like water, salt, sand)
 multaj - many (for countable things like miles, boys, fingers)
+muro - wall
 naŭ - nine
 naŭa - ninth
 nazo - nose     [nasal]
@@ -381,6 +390,7 @@ plumo - pen
 pluvo - rain   (whence: pluvi - to rain)
 pomo - apple
 por - for
+pordo - door
 porti - to carry
 post - after, behind    [post meridiem "PM"]
 posttagmezo - afternoon
@@ -432,6 +442,7 @@ simpatia - likeable
 Sinjorino - Mrs.
 Sinjoro - Mr.
 skribi - to write
+skribotablo - desk
 stari - to stand
 stelo - star     [stellar]
 stranĝa - strange
@@ -446,7 +457,11 @@ super - over, above
 supre - above, up
 sur - on
 tablo - table
+tagmezo - noon
 tago - day
+taso - cup
+telermeblo - hutch
+telero - plate
 tero - land or Earth     [subterranean]
 tie - there (at that place)
 tiel - in that way, so
@@ -457,6 +472,7 @@ tiu /noun/ - that /noun/, that /noun/ specifically
 torto - pie
 tra - through
 tranĉi - to cut
+tranĉilo - knife
 tre - very
 tri - three   [tricycle, triad]
 tria - third
@@ -486,6 +502,7 @@ vin - you (singular) (object of verb)
 viola - violet
 viro - man      [virile]
 vivi - to live
+vojo - way
 voli - to want
 vorto - word
 zumi - to buzz

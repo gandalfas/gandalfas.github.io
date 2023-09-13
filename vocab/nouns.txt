@@ -55,6 +55,21 @@ plumo - pen
 floro - flower
 suno - sun
 homo - person
+telero - plate
+taso - cup
+tranĉilo - knife
+forko - fork
+kulero - spoon
+meblo - piece of furniture
+kanapo - couch
+skribotablo - desk
+telermeblo - hutch
+muro - wall
+pordo - door
+tagmezo - noon
+amuzo - fun
+hejmo - home
+vojo - way
 lingvo - language     [lingual]
 pomo - apple
 studento - student

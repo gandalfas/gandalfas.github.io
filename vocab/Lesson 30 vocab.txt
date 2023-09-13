@@ -1,3 +1,5 @@
+# nouns
+
 telero - plate
 taso - cup
 tranĉilo - knife
@@ -7,22 +9,18 @@ meblo - piece of furniture
 kanapo - couch
 skribotablo - desk
 telermeblo - hutch
-bildo - picture
-planko - floor
 muro - wall
-plafono - ceiling
 pordo - door
-Sinjoro - Mr.
-Sinjorino - Mrs.
-Fraŭlo - Bachelor
-Fraŭlino - Miss
-tago - day
-mateno - morning
 tagmezo - noon
-posttagmezo - afternoon
-vespero - evening
-nokto - night
 amuzo - fun
-strato - street
 hejmo - home
 vojo - way
+
+# particles
+
+ĉu - whether (in middle of sentence)
+
+
+# interjections
+
+ho - oh
