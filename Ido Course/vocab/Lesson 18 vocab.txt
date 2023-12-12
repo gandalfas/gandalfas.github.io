@@ -1,0 +1,29 @@
+# nouns
+
+bildo - picture
+luno - moon      [lunar]
+tero - land or Earth     [subterranean]
+stelo - star     [stellar]
+vento - wind     [vent]
+
+
+# nouns-animals
+
+baleno - whale      [baleen]
+besto - animal      [beast]
+cervo - deer
+
+
+# nouns-body-parts
+
+brusto - chest
+dorso - back       [dorsal fin]
+ventro - belly     [ventral fin]
+
+
+# nouns-family
+
+Sinjoro - Mr.
+Sinjorino - Mrs.
+Fraŭlino - Miss
+Fraŭlo - Mr. (Bachelor)

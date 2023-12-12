@@ -1,0 +1,53 @@
+# nouns
+
+tablo - table
+fenestro - window
+stulo* - chair
+plankosulo* - floor
+plafono - ceiling
+balno - bath
+lampo - lamp
+lito - bed
+glaso - glass
+plumo - pen
+floro - flower
+suno - sun
+persono - person
+
+# nouns-animals
+
+bovo - cow/bull
+
+# adjectives
+
+sika* - dry
+varma - warm
+granda - big
+nova - new
+larja - wide
+kontenta - content
+libera - free
+neta* - clean
+forta - strong
+sana - healthy
+santa* - holy
+proxima - near
+
+# correlatives
+
+quo* - what (indefinite thing)
+to* - that (indefinite thing)
+
+
+# grammatical-endings
+
+-i* - plural (for a noun)
+
+
+# prefixes
+
+des-* - opposite of    desfacila - difficult
+
+# suffixes
+
+-ar- - collection     ucelaro - flock

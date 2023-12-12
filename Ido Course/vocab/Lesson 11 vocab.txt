@@ -1,0 +1,48 @@
+# nouns
+
+ĉerizo - cherry
+torto - pie
+tago - day
+misio - mission
+mondo - world
+momento - moment
+kanto - song ("a singing")
+
+# nouns-family
+
+nepo - grandson   [nepotism]
+
+# adjectives
+
+aŭdaca - bold    [audacious]
+ĝusta - right, correct
+stranĝa - strange
+
+# verbs
+
+demandi - to ask (a question)
+halti - to stop
+flegi - to nurse (a sick person)
+serĉi - to search for
+helpi - to help
+esplori - to explore
+
+# correlatives
+
+io - something
+ĉio - everything
+nenio - nothing
+
+iu /noun/ - some /noun/
+ĉiu /noun/ - every /noun/
+neniu /noun/ - no /noun/
+
+iu (with no noun) - some one
+ĉiu (with no noun) - every one
+neniu (with no noun) - no one
+
+
+# suffixes
+
+-iĉ- - masculine      boviĉo - bull
+-ebl- - possible, -able      legebla - legible

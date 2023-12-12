@@ -1,0 +1,93 @@
+# nouns
+
+domo - house
+arboro* - tree
+amiko - friend
+libro - book
+
+# nouns-family
+
+frato - sibling
+fratulo - brother   [fraternal]
+fratino - sister
+
+filio* - child (offspring - not necessarily a youth)
+filiulo - son
+filiino - daughter
+
+avo - grandparent
+avulo - grandfather
+avino - grandmother
+
+genitoro* - parent
+patro - father
+matro* - mother
+
+viro - man      [virile]
+muliero* - woman
+
+puero* - child (8 - 15 years)
+puerulo - boy (8 - 15 years)
+puerino - girl (8 - 15 years)
+
+# nouns-animals
+
+kato - cat
+hundo - dog
+ucelo* - bird
+
+# adjectives
+
+bela - beautiful
+bona - good
+yuna - young
+felica - happy
+
+# personal-pronouns
+
+me* - I/me
+vu* - you (singular)
+ilu* - he/him
+elu* - she/her
+olu* - it
+
+ni - we/us
+vi - you (plural)
+li* - they/them
+
+onu* - one [one sometimes does the right thing]
+
+# verbs
+
+esas* - is, am, are
+marchas - walks
+standas* - fares
+sidas - sits
+stacas* - stands
+iras - goes
+venas - comes
+dormas - sleeps
+parolas - speaks
+laboras - works
+esperas - hopes
+kuras - runs
+vivas - lives
+brilas - shines
+
+# grammatical-endings
+
+-a - adjective
+-o - noun
+-as - present tense (verb)
+
+# phrases
+
+Saluto! - Hello!
+Quale vu standas?* - How are you?
+Me standas bone.* - I am well.
+Bonveno! - Welcome!
+
+# suffixes
+
+-ul-* - male        fratulo - brother
+-in- - female       fratino - sister

@@ -1,0 +1,26 @@
+# nouns
+
+telero - plate
+taso - cup
+tranĉilo - knife
+forko - fork
+kulero - spoon
+meblo - piece of furniture
+kanapo - couch
+skribotablo - desk
+telermeblo - hutch
+muro - wall
+pordo - door
+tagmezo - noon
+amuzo - fun
+hejmo - home
+vojo - way
+
+# particles
+
+ĉu - whether (in middle of sentence)
+
+
+# interjections
+
+ho - oh

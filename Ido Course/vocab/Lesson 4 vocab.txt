@@ -1,0 +1,92 @@
+# prepositions
+
+sur - on
+ad* - to
+de - from (not: since, by, of/possession)
+
+
+# verbs
+
+havas - have/has
+amas - loves
+facas - does or makes
+volas - wants
+kisas - kisses
+koquas* - cooks
+manjas - eats
+dicas* - says, tells
+vidas - sees
+
+
+# correlatives
+
+qua* /noun/ - which /noun/, which /noun/ specifically
+ta* /noun/ - that /noun/, that /noun/ specifically
+
+qua* (with no noun) - who, which one (= person)
+ta* (with no noun) - that one (= person)
+
+# nouns
+
+esto* - east
+westo* - west
+nordo - north
+sudo - south
+
+# adjectives
+
+multa - much, many (much, for uncountable things like water, salt, sand; many for countable things like miles, boys, fingers)
+rapida - fast
+klara - clear
+stupida - stupid
+altra* - other
+frua - early
+sama - same
+harda* - hard
+plena - full
+plena* - full (not hungry) (as best as I can find)
+hungroza* - hungry (from hungras - is hungry)
+kelka - some (but not a large number)
+
+# conjunctions
+
+e* - and
+o* - or
+nek - nor
+ma* - but
+anke - also
+pro ke* - because
+se - if
+
+# nouns
+
+linguo - language     [lingual]
+pomo - apple
+
+# nouns-body-parts
+
+kapo - head     [kapf (German)]
+okulo - eye     [oculist]
+boko* - mouth
+orelo - ear
+nazo - nose     [nasal]
+korpo - body    [corpus, corporeal, corpse]
+kolo - neck
+shultro - shoulder
+brakio* - arm     [brachial, brachiating]
+manuo* - hand     [manual]
+fingro - finger
+gambo - leg
+genuo - knee    [genuflect]
+pedo* - foot    [pedestrian]
+pedfingro - toe
+
+# phrases
+
+Danko! - Thank you!
+Nedankinde! - You're welcome!  (It is not worth thanking for)
+
+
+# suffixes
+
+-ey- - place          hundeyo - doghouse
