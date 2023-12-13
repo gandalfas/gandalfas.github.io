@@ -55,7 +55,7 @@ o* - or
 nek - nor
 ma* - but
 anke - also
-pro ke* - because
+pro ke* - because (because-of that (clause))
 se - if
 
 # nouns
