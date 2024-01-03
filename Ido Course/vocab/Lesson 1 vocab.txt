@@ -1,16 +1,16 @@
 # numbers
 
-zero* - zero
-un* - one    [unity, union, unify]
-du - two     [duet]
-tri - three   [tricycle, triad]
-quar - four   [quartet]
-kin* - five   [quintuplet]
-sis* - six
+zero+ - zero ~ nul+
+un+ - one     {unity, union, unify} ~ unu* I: one (person)
+du - two     {duet}
+tri - three   {tricycle, triad}
+quar+ - four    ~ kvar+ {quartet}
+kin+ - five    ~ kvin+ {quintuplet}
+sis+ - six ~ ses+
 sep - seven
-ok - eight    [octagon]
-non* - nine
-dek - ten       [decimal]
+ok - eight    {octagon}
+non+ - nine ~ nau+
+dek - ten       {decimal}
 cent - hundred
 mil - thousand
 
@@ -20,15 +20,15 @@ la - the
 
 # adjectives-colors
 
-reda* - red
+reda+ - red ~ ruja+
 blua - blue
 verda - green
 flava - yellow
-orangea* - orange
+oranjea+ - orange ~ oranjkolora
 purpura - purple
 blanka - white
 nigra - black
 griza - gray
 bruna - brown
-ora - gold
-arjenta - silver
+orea+ - gold ~ ora* [I: made of gold]
+arjentea+ - silver ~ arjenta* [I: made of silver]

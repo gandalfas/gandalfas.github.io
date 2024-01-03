@@ -8,18 +8,18 @@ sub - under, below
 dum - during (while, as a conjunction)
 kun - with
 sen - without
-ante - before (in time)   [ante meridiem "AM"]
-pos - after (in time)   [post meridiem "PM"]
-avan* - in front of (before, in space)
-dop* - behind (after, in space)
+ante+ - before (in time)   {ante meridiem "AM"} ~ antau+
+pos+ - after (in time)   {post meridiem "PM"} ~ post+
+avan+ - in front of (before, in space) ~ antau+
+dop+ - behind (after, in space) ~ post+
 super - over, above
 apud - beside
 tra - through
-cirkum* - around
+cirkum+ - around ~ chirkau+
 ek - out of
 exter - outside
-lor* - on (at the time of)
-ye - a non-specific preposition
+lor+ - on (at the time of) ~ ye
+ye - a non-specific preposition, or at (time), on (date)
 per - by (by means of)
 
 # verbs
@@ -28,14 +28,14 @@ skribar - to write
 pregar - to pray
 povar - to be able (can, if present tense)
 devar - to ought (obligation - you ought to repay me)
-mustar* - to must (necessity - you must eat)
+mustar+ - to must (necessity - you must eat) ~ devas
 ridar - to laugh
 kantar - to sing
 portar - to carry
-lektar* - to read [dyslexia]
+lektar+ - to read {dyslexia} ~ legas+
 lernar - to learn
-instruktar* - to teach
-pensar - to think   [pensive]
+instruktar+ - to teach ~ instruas+
+pensar - to think   {pensive}
 
 # nouns
 

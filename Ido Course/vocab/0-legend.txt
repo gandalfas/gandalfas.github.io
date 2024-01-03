@@ -1,0 +1,22 @@
+Legend
+
+words only different due to new alphabet are not marked.
+
+unmarked words - word exists in both Ido and Eo, and means the same, so we can use it
+
+
+marks on Ido words
+
++ - Ido word does not exist in Eo so we can use it
+* - Ido word exists in Eo and has different meaning, so hmmm?
+   
+marks on Eo words
+
++ - Eo word does not exist in Ido so we can use it
+* - Eo word exists in Ido and has different meaning, so hmmm?
+
+thus
++ - +   use both. no problem.  they are synonyms.
+* -     use Eo
+  - *   use Io
+* - *   ??

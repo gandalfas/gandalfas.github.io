@@ -1,3 +1,9 @@
+Assumption: we can use the new alphabet and spell with no ^ - VERIFY
+Assumption: we can use -ul for masculine. - VERIFY
+
+
+
+
 Ido
 
 tu - you (singular intimate)   vu is polite

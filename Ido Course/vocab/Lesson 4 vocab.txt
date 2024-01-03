@@ -1,7 +1,7 @@
 # prepositions
 
 sur - on
-ad* - to
+ad+ - to ~ al+
 de - from (not: since, by, of/possession)
 
 
@@ -9,27 +9,27 @@ de - from (not: since, by, of/possession)
 
 havas - have/has
 amas - loves
-facas - does or makes
+facas+ - does or makes
 volas - wants
 kisas - kisses
-koquas* - cooks
+koquas+ - cooks ~ kuiras+
 manjas - eats
-dicas* - says, tells
+dicas+ - says, tells ~ diras+
 vidas - sees
 
 
 # correlatives
 
-qua* /noun/ - which /noun/, which /noun/ specifically
-ta* /noun/ - that /noun/, that /noun/ specifically
+qua+ /noun/ - which /noun/, which /noun/ specifically ~ kiu+ 
+ta+  noun/ - that /noun/, that /noun/ specifically ~ tiu+
 
-qua* (with no noun) - who, which one (= person)
-ta* (with no noun) - that one (= person)
+qua+ (with no noun) - who, which one (= person) ~ kiu+
+ta+ (with no noun) - that one (= person) ~ tiu+
 
 # nouns
 
-esto* - east
-westo* - west
+esto+ - east ~ oriento* [I: Orient]
+westo+ - west ~ okcidento+
 nordo - north
 sudo - south
 
@@ -39,46 +39,46 @@ multa - much, many (much, for uncountable things like water, salt, sand; many fo
 rapida - fast
 klara - clear
 stupida - stupid
-altra* - other
+altra+ - other ~ alia* [I: garlic]
 frua - early
 sama - same
-harda* - hard
+harda+ - hard ~ dura+
 plena - full
-plena* - full (not hungry) (as best as I can find)
-hungroza* - hungry (from hungras - is hungry)
+plena - full (not hungry) (as best as I can find) ~ plena+
+hungroza+ - hungry (from hungras - is hungry) ~ malsata+
 kelka - some (but not a large number)
 
 # conjunctions
 
-e* - and
-o* - or
+e+ - and ~ kay!
+o+ - or ~ au!
 nek - nor
-ma* - but
+ma+ - but ~ sed!
 anke - also
-pro ke* - because (because-of that (clause))
+pro ke+ - because (because-of that (clause)) ~ char+
 se - if
 
 # nouns
 
-linguo - language     [lingual]
+linguo+ - language     {lingual} ~ lingvo+
 pomo - apple
 
 # nouns-body-parts
 
-kapo - head     [kapf (German)]
-okulo - eye     [oculist]
-boko* - mouth
+kapo - head     {kapf (German)}
+okulo - eye     {oculist}
+boko+ - mouth ~ busho* [I: thicket]
 orelo - ear
-nazo - nose     [nasal]
-korpo - body    [corpus, corporeal, corpse]
+nazo - nose     {nasal}
+korpo - body    {corpus, corporeal, corpse}
 kolo - neck
 shultro - shoulder
-brakio* - arm     [brachial, brachiating]
-manuo* - hand     [manual]
+brakio+ - arm     {brachial, brachiating} ~ brako+
+manuo+ - hand     {manual} ~ mano+
 fingro - finger
 gambo - leg
-genuo - knee    [genuflect]
-pedo* - foot    [pedestrian]
+genuo - knee    {genuflect}
+pedo+ - foot    {pedestrian} ~ piedo+
 pedfingro - toe
 
 # phrases

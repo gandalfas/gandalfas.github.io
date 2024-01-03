@@ -2,8 +2,8 @@
 
 tablo - table
 fenestro - window
-stulo* - chair
-plankosulo* - floor
+stulo+ - chair ~ sejo+
+plankosulo+ - floor ~ planko* I: plank
 plafono - ceiling
 balno - bath
 lampo - lamp
@@ -20,33 +20,33 @@ bovo - cow/bull
 
 # adjectives
 
-sika* - dry
+sika+ - dry ~ seka+
 varma - warm
 granda - big
 nova - new
 larja - wide
 kontenta - content
 libera - free
-neta* - clean
+neta* - clean ~ pura* I: pure
 forta - strong
 sana - healthy
-santa* - holy
+santa+ - holy ~ sankta+
 proxima - near
 
 # correlatives
 
-quo* - what (indefinite thing)
-to* - that (indefinite thing)
+quo+ - what (indefinite thing) ~ kio+
+to+ - that (indefinite thing) ~ tio+
 
 
 # grammatical-endings
 
--i* - plural (for a noun)
+-i* - plural (for a noun) ~ -oy+
 
 
 # prefixes
 
-des-* - opposite of    desfacila - difficult
+des-* - opposite of    desfacila - difficult ~ mal-*
 
 # suffixes
 

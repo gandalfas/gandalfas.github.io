@@ -1,7 +1,7 @@
 # particles
 
 ne - not, does not (applied to verbs)
-no* (opposite of yes) - no
+no* (opposite of yes) - no ~ ne+
 
 # nouns
 
@@ -14,5 +14,5 @@ urbo - city
 
 # suffixes
 
--er- - person who does the action    kurero - runner
+-er-* - person who does the action    kurero - runner ~ -ul*
 -ist- - profession of person    instruktisto - teacher
