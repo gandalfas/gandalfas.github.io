@@ -1,6 +1,6 @@
 # numbers
 
-nulo - zero
+nul - zero
 unu - one    [unity, union, unify]
 du - two     [duet]
 tri - three   [tricycle, triad]

@@ -1,34 +1,81 @@
-# numbers
+## 1st set.  introduced in Lesson 1
 
-zero+ - zero ~ nul+
-un+ - one     {unity, union, unify} ~ unu* I: one (person)
-du - two     {duet}
-tri - three   {tricycle, triad}
-quar+ - four    ~ kvar+ {quartet}
-kin+ - five    ~ kvin+ {quintuplet}
-sis+ - six ~ ses+
-sep - seven
-ok - eight    {octagon}
-non+ - nine ~ nau+
-dek - ten       {decimal}
-cent - hundred
-mil - thousand
+# grammatical-endings
+
+-o - noun               :
+
+# nouns
+
+domo - house            :
+tablo - table           :
+viro - man     {virile} :
+floro - flower          :
+pomo - apple            :
+
+# nouns-animals
+
+kato - cat        :
+hundo - dog       :
+bovo - cow/bull   :
 
 # articles
 
-la - the
+la - the                :
+
+# verbs
+
+esas - is, am, are, be  +
+iras - goes             :
+venas - comes           :
+kuras - runs            :
+marchas - walks         +
+amas - loves            :
+manjas - eats           :
+
+
+
+
+## 2nd set. learn for Lesson 2
+
+# grammatical-endings
+
+-a - adjective      :
 
 # adjectives-colors
 
-reda+ - red ~ ruja+
-blua - blue
-verda - green
-flava - yellow
-oranjea+ - orange ~ oranjkolora
-purpura - purple
-blanka - white
-nigra - black
-griza - gray
-bruna - brown
-orea+ - gold ~ ora* [I: made of gold]
-arjentea+ - silver ~ arjenta* [I: made of silver]
+reda - red          +
+blua - blue         :
+verda - green       :{verdant}
+flava - yellow      :
+oranjea - orange    +
+purpura - purple    :
+blanka - white      :
+nigra - black       :
+griza - gray        :
+bruna - brown       :{brunette}
+orea - gold         +{Au, aurum}
+arjentea - silver   +{Ag, Argentina}
+
+# nouns
+
+libro - book        :
+arboro - tree       +
+amiko - friend      :
+
+# numbers
+
+zero - zero     +
+un - one        +{unity, union, unify}
+du - two        :{duet, dual, duo, duplicate}
+tri - three     :{triplet, tricycle, triad}
+quar - four     +{quartet, quarter}
+kin - five      +{quintuplet}
+sis - six       +{sextuplet}
+sep - seven     :{septuplet}
+ok - eight      :{octagon}
+non - nine      +{nonuplet}
+dek - ten       :{decimal}
+cent - hundred  :{centimeter, century, percent}
+mil - thousand  :{millimeter}
+
+

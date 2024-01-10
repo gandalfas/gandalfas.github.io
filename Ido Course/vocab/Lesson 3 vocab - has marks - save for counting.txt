@@ -1,5 +1,6 @@
 # nouns
 
+tablo - table
 fenestro - window
 stulo+ - chair ~ sejo+
 plankosulo+ - floor ~ planko* I: plank
@@ -9,8 +10,13 @@ lampo - lamp
 lito - bed
 glaso - glass
 plumo - pen
+floro - flower
 suno - sun
 persono - person
+
+# nouns-animals
+
+bovo - cow/bull
 
 # adjectives
 

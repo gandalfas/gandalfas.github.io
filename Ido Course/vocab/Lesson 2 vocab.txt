@@ -1,93 +1,75 @@
-# nouns
-
-domo - house
-arboro+ - tree ~ arbo+
-amiko - friend
-libro - book
-
-# nouns-family
-
-frato* - sibling ~ gefrato
-fratulo+ - brother   {fraternal} ~ frato*
-fratino - sister
-
-filio* - son/daughter/offspring ~ ido+
-filiulo+ - son ~ filo* I: thread
-filiino* - daughter
-
-avo* - grandparent
-avulo* - grandfather ~ avo*
-avino - grandmother
-
-genitoro+ - parent ~ gepatro+
-patro - father
-matro+ - mother ~ patrino+
-
-viro - man      {virile}
-muliero+ - woman ~ virino+
-
-puero+ - child (8 - 15 years) ~ geknabo+
-puerulo - boy (8 - 15 years) ~ knabo+
-puerino - girl (8 - 15 years) ~ knabino+
-
-# nouns-animals
-
-kato - cat
-hundo - dog
-ucelo+ - bird ~ birdo+
-
-# adjectives
-
-bela - beautiful
-bona - good
-yuna - young
-felica - happy
-
 # personal-pronouns
 
-me+ - I/me ~ mi+
-vu+ - you (singular) ~ vi*
-ilu+ - he/him ~ li* I: they
-elu+ - she/her ~ shi+
-olu+ - it ~ ji+
+me - I/me               +
+vu - you (singular)     +
+lu - he/him/she/her/it  +
 
-ni - we/us
-vi - you (plural)
-li* - they/them ~ ili* I: they (masc)
+ni - we/us              :
+vi - you (plural)       :
+li - they/them          +
 
-onu+ - one {one sometimes does the right thing} ~ oni+
-
-# verbs
-
-esas+ - is, am, are ~ estas+
-marchas - walks
-standas+ - fares ~ fartas+
-sidas - sits
-stacas+ - stands ~ staras+
-iras - goes
-venas - comes
-dormas - sleeps
-parolas - speaks
-laboras - works
-esperas - hopes
-kuras - runs
-vivas - lives
-brilas - shines
+onu - one {one does what one can}  +
 
 # grammatical-endings
 
--a - adjective
--o - noun
--as - present tense (verb)
+-as - present tense (verb)  :
 
-# phrases
+# verbs
 
-Saluto! - Hello!
-Quale vu standas?+ - How are you? ~ Kiel vi fartas?+
-Me standas bone.+ - I am well. ~ Mi fartas bone.+
-Bonveno! - Welcome!
+standas - fares      +
+sidas - sits         :
+stacas - stands      +
+dormas - sleeps      :
+parolas - speaks     :
+laboras - works      :
+esperas - hopes      :
+vivas - lives        :
+brilas - shines      :
+
+# nouns-animals
+
+urso - bear       :
+ucelo - bird      +
+
+# adjectives
+
+bela - beautiful  :
+bona - good       :
+yuna - young      :
+felica - happy    +
+
+# nouns-family                                  SOME LATER!!
+
+muliero - woman     +
+
+frato - sibling     +
+fratulo - brother   +{fraternal}
+fratino - sister    :
+
+filio - son/daughter    +
+filiulo - son           +
+filiino - daughter      +
+                        
+avo - grandparent       +
+avulo - grandfather     +
+avino - grandmother     :
+                        
+genitoro - parent       +
+patro - father          :
+matro - mother          +
+
+puero - child (8 - 15 years)   +
+puerulo - boy (8 - 15 years)   +
+puerino - girl (8 - 15 years)  +
+
+# phrases                                     LATER
+
+Saluto! - Hello!                   :
+Bonveno! - Welcome!                :
+Quale vu standas? - How are you?   +
+Me standas bone. - I am well.      +
 
 # suffixes
 
--ul* - male        fratulo - brother ~ -ich+
--in - female               fratino - sister
+-ul - male        fratulo - brother  +
+-in - female      fratino - sister   :

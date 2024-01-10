@@ -1,0 +1,93 @@
+# nouns
+
+domo - house
+arboro+ - tree ~ arbo+
+amiko - friend
+libro - book
+
+# nouns-family
+
+frato* - sibling ~ gefrato
+fratulo+ - brother   {fraternal} ~ frato*
+fratino - sister
+
+filio* - son/daughter/offspring ~ ido+
+filiulo+ - son ~ filo* I: thread
+filiino* - daughter
+
+avo* - grandparent
+avulo* - grandfather ~ avo*
+avino - grandmother
+
+genitoro+ - parent ~ gepatro+
+patro - father
+matro+ - mother ~ patrino+
+
+viro - man      {virile}
+muliero+ - woman ~ virino+
+
+puero+ - child (8 - 15 years) ~ geknabo+
+puerulo - boy (8 - 15 years) ~ knabo+
+puerino - girl (8 - 15 years) ~ knabino+
+
+# nouns-animals
+
+kato - cat
+hundo - dog
+ucelo+ - bird ~ birdo+
+
+# adjectives
+
+bela - beautiful
+bona - good
+yuna - young
+felica - happy
+
+# personal-pronouns
+
+me+ - I/me ~ mi+
+vu+ - you (singular) ~ vi*
+ilu+ - he/him ~ li* I: they
+elu+ - she/her ~ shi+
+olu+ - it ~ ji+
+
+ni - we/us
+vi - you (plural)
+li* - they/them ~ ili* I: they (masc)
+
+onu+ - one {one sometimes does the right thing} ~ oni+
+
+# verbs
+
+esas+ - is, am, are ~ estas+
+marchas+ - walks    ~ marsas
+standas+ - fares ~ fartas+
+sidas - sits
+stacas+ - stands ~ staras+
+iras - goes
+venas - comes
+dormas - sleeps
+parolas - speaks
+laboras - works
+esperas - hopes
+kuras - runs
+vivas - lives
+brilas - shines
+
+# grammatical-endings
+
+-a - adjective
+-o - noun
+-as - present tense (verb)
+
+# phrases
+
+Saluto! - Hello!
+Quale vu standas?+ - How are you? ~ Kiel vi fartas?+
+Me standas bone.+ - I am well. ~ Mi fartas bone.+
+Bonveno! - Welcome!
+
+# suffixes
+
+-ul* - male        fratulo - brother ~ -ich+
+-in - female               fratino - sister

@@ -1,0 +1,34 @@
+# numbers
+
+zero+ - zero ~ nul+
+un+ - one     {unity, union, unify} ~ unu* I: one (person)
+du - two     {duet}
+tri - three   {tricycle, triad}
+quar+ - four    ~ kvar+ {quartet}
+kin+ - five    ~ kvin+ {quintuplet}
+sis+ - six ~ ses+
+sep - seven
+ok - eight    {octagon}
+non+ - nine ~ nau+
+dek - ten       {decimal}
+cent - hundred
+mil - thousand
+
+# articles
+
+la - the
+
+# adjectives-colors
+
+reda+ - red ~ ruja+
+blua - blue
+verda - green
+flava - yellow
+oranjea+ - orange ~ oranjkolora
+purpura - purple
+blanka - white
+nigra - black
+griza - gray
+bruna - brown
+orea+ - gold ~ ora* [I: made of gold]
+arjentea+ - silver ~ arjenta* [I: made of silver]

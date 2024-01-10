@@ -8,6 +8,10 @@ Ido
 
 tu - you (singular intimate)   vu is polite
 
+ilu - he/him         +
+elu - she/her        +
+olu - it             +
+
 il/ilu - he/him
 el/elu - she/her
 ol/olu - it

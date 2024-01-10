@@ -8,10 +8,12 @@ de - from (not: since, by, of/possession)
 # verbs
 
 havas - have/has
+amas - loves
 facas+ - does or makes
 volas - wants
 kisas - kisses
 koquas+ - cooks ~ kuiras+
+manjas - eats
 dicas+ - says, tells ~ diras+
 vidas - sees
 
@@ -59,6 +61,7 @@ se - if
 # nouns
 
 linguo+ - language     {lingual} ~ lingvo+
+pomo - apple
 
 # nouns-body-parts
 
