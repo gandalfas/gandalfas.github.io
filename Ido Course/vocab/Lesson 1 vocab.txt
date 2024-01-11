@@ -8,7 +8,7 @@
 
 domo - house            :
 tablo - table           :
-viro - man     {virile} :
+viro - man              :{virile} 
 floro - flower          :
 pomo - apple            :
 
@@ -58,9 +58,9 @@ arjentea - silver   +{Ag, Argentina}
 
 # nouns
 
-libro - book        :
-arboro - tree       +
-amiko - friend      :
+libro - book        :{library}
+arboro - tree       +{arboretum, arbor, arbor vitae}
+amiko - friend      :{amicable}
 
 # numbers
 

@@ -38,7 +38,7 @@ bona - good       :
 yuna - young      :
 felica - happy    +
 
-# nouns-family                                  SOME LATER!!
+# nouns-family                                  MOVE SOME LATER!!
 
 muliero - woman     +
 
